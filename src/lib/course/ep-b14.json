@@ -53,7 +53,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -61,7 +61,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b14-n02",
       "pt": "Nothing may be served and then charged without your prior consent. Not the bread. Not the bottled water."
     },
@@ -77,7 +77,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n03",
       "bloco": "corpo",
       "pt": "Κουβέρ — a flat cover charge — is simply not allowed. Five hundred euros per item, and inspectors do issue it."
@@ -91,7 +91,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "τον λογαριασμό",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b14-p01",
       "promptPt": "Plates cleared, coffee finished, and he is passing the table. Catch him. Speak now.",
       "audioKey": "el-b14-t01",
@@ -102,7 +102,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b14-n04",
       "pt": "This is the opposite of Italy, where a declared coperto is lawful. Here consent is the whole hinge."
     },
@@ -114,7 +114,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "ένα νερό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b14-p02",
       "promptPt": "The table is dry and you would rather choose the bottle than have one appear. Order it yourself. Speak now.",
       "audioKey": "el-b14-t02",
@@ -125,7 +125,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n05",
       "pt": "Bread can still appear on the bill — if it was offered and you said yes. Offered, accepted, charged. In that order."
     },
@@ -136,7 +136,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b14-p03",
       "promptPt": "There is a line on the paper you cannot read, with a number next to it. Put your finger on it. Speak now.",
       "audioKey": "el-b14-t03",
@@ -152,7 +152,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b14-p04",
       "promptPt": "The bottle arrived on its own an hour ago and nobody asked. Say what happened, calmly and flatly. Speak now.",
       "audioKey": "el-b14-t04",
@@ -173,7 +173,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b14-n06",
       "pt": "There has to be a price list, in Greek, visible at the entrance and again before you order, with tax included."
     },
@@ -186,7 +186,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "τιμοκατάλογο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b14-p05",
       "promptPt": "You are standing at the entrance of a terrace with no board anywhere in sight. Ask before you sit down. Speak now.",
       "audioKey": "el-b14-t05",
@@ -207,7 +207,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n07",
       "pt": "No list at all is a thousand euro penalty. A price charged above the listed one is five hundred, per item."
     },
@@ -220,7 +220,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "τιμοκατάλογο για τα κρασιά",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b14-p06",
       "promptPt": "He has recommended the house one from a jug and no number has been said out loud yet. Ask to see it written. Speak now.",
       "audioKey": "el-b14-t06",
@@ -231,7 +231,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b14-n08",
       "pt": "The printed receipt is the business's duty, not yours. Take it, but nobody can penalise you for not carrying it."
     },
@@ -243,7 +243,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "την απόδειξη",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b14-p07",
       "promptPt": "Cash is on the little plate and the change has come back without any paper. Speak now.",
       "audioKey": "el-b14-t07",
@@ -258,7 +258,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b14-p08",
       "promptPt": "Your pocket has four euros in coins and the total is a good deal more than that. Speak now.",
       "audioKey": "el-b14-t08",
@@ -273,7 +273,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b14-p09",
       "promptPt": "Four of you, four cards, and one folded paper in the middle of the table. Speak now.",
       "audioKey": "el-b14-t09",
@@ -284,7 +284,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n09",
       "bloco": "capsula",
       "pt": "Totals come fast. Δεκαοκτώ και πενήντα is eighteen fifty — catch the και and the cents are already yours."
@@ -311,7 +311,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b14-n10",
       "bloco": "recap",
       "pt": "B14 done. The bill asked for, the list read at the door, and nothing on the paper you were not asked about first."

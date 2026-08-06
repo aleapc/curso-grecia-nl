@@ -27,7 +27,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i08-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -35,7 +35,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i08-n02",
       "bloco": "corpo",
       "pt": "Ask what to bring. You will be told to bring nothing. Bring something anyway — a sweet, a bottle, fruit."
@@ -55,7 +55,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i08-p01",
       "promptPt": "The invitation is for tomorrow evening and you have no idea what is expected of you. Ask. Speak now.",
       "audioKey": "el-i08-t01",
@@ -81,7 +81,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i08-p02",
       "promptPt": "You are in the doorway with a box from the sweet shop and someone is already saying you shouldn't have. Hand it over and say what it is. Speak now.",
       "audioKey": "el-i08-t02",
@@ -96,7 +96,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i08-p03",
       "promptPt": "There are nine chairs and no obvious spare one, and you would rather be placed than guess. Ask. Speak now.",
       "audioKey": "el-i08-t03",
@@ -117,13 +117,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i08-n03",
       "pt": "UNESCO lists the Mediterranean Diet, and the file calls eating together the foundation of these communities."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i08-n04",
       "pt": "So order in the plural. Mezedes arrive as small dishes that land in the middle of the table, not in front of one person."
     },
@@ -134,7 +134,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i08-p04",
       "promptPt": "You have all been handed menus and everyone is waiting for someone to start. Propose the shape of the order. Speak now.",
       "audioKey": "el-i08-t04",
@@ -150,7 +150,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i08-p05",
       "promptPt": "The person taking the order wants to know whose dish is whose. Tell them it does not work that way tonight. Speak now.",
       "audioKey": "el-i08-t05",
@@ -173,7 +173,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i08-p06",
       "promptPt": "Glasses are up around the table and everyone is looking at each other. Say the toast. Speak now.",
       "audioKey": "el-i08-t06",
@@ -188,7 +188,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i08-p07",
       "promptPt": "One small dish is better than anything you have eaten this trip and you cannot name it. Praise it and ask. Speak now.",
       "audioKey": "el-i08-t07",
@@ -199,7 +199,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i08-n05",
       "bloco": "capsula",
       "pt": "Refills keep coming. The way out is not a hand over the plate — it is a warm full sentence, said once."
@@ -221,7 +221,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i08-p08",
       "promptPt": "A third helping is on its way to your plate and you are genuinely finished. Stop it warmly. Speak now.",
       "audioKey": "el-i08-t08",
@@ -234,7 +234,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i08-n06",
       "pt": "Leaving takes two sentences and about ten minutes. Announce it, thank them for the evening, then stand up."
     },
@@ -245,7 +245,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i08-p09",
       "promptPt": "It is late, you have a boat in the morning, and nobody else is moving. Announce it. Speak now.",
       "audioKey": "el-i08-t09",
@@ -261,7 +261,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i08-p10",
       "promptPt": "You are at the door with your coat on and one sentence left. Make it the one that gets you invited again. Speak now.",
       "audioKey": "el-i08-t10",
@@ -282,7 +282,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i08-n07",
       "bloco": "recap",
       "pt": "I08 done. Carry something in, sit where you are put, toast once, and say you are full out loud."

@@ -42,7 +42,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -50,26 +50,26 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n02",
       "bloco": "corpo",
       "pt": "The commercial index puts Greece at 592 for 2025, twentieth in the world, in the High band."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n03",
       "pt": "With one caveat the publisher states itself: people opt into that test online. It measures them, not a country."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n04",
       "pt": "The useful detail is inside it. Reading scores 600 and speaking 533 — speaking is the weakest of the four."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n05",
       "bloco": "capsula",
       "pt": "So the person in front of you may read your English better than they can answer it. Write things down."
@@ -86,13 +86,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n06",
       "pt": "Six words carry almost every counter in the country, and you already know most of them."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n07",
       "pt": "Καλημέρα, καλησπέρα, γεια σας, παρακαλώ, ευχαριστώ, συγγνώμη. That is the whole set."
     },
@@ -102,7 +102,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a05-p01",
       "promptPt": "Half past nine, the bakery door, a woman already looking up at you. Put the greeting in before anything else. Speak now.",
       "audioKey": "el-a05-t01",
@@ -117,7 +117,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a05-p02",
       "promptPt": "What you need next is too complicated for the Greek you have. Ask before you launch into it, and open politely. Speak now.",
       "audioKey": "el-a05-t02",
@@ -128,7 +128,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n08",
       "pt": "Παρακαλώ does three jobs on its own: please, you're welcome, and go ahead. Listen for which one."
     },
@@ -148,7 +148,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a05-p03",
       "promptPt": "She answered you in fast Greek because your greeting was good. Set the level honestly, in her language. Speak now.",
       "audioKey": "el-a05-t03",
@@ -163,7 +163,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a05-p04",
       "promptPt": "The answer came at full speed and you caught two words of it. Ask for the same sentence at a different pace. Speak now.",
       "audioKey": "el-a05-t04",
@@ -178,7 +178,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a05-p05",
       "promptPt": "It is a platform number and a time, and your ear has now failed twice. Move the problem onto paper. Speak now.",
       "audioKey": "el-a05-t05",
@@ -199,13 +199,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n09",
       "pt": "The greeting changes in the middle of the day, and nobody agrees on exactly when it does."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n10",
       "pt": "Between noon and five you will hear all three, from natives, hesitating. Καλό μεσημέρι covers the gap."
     },
@@ -225,7 +225,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a05-p06",
       "promptPt": "It is six in the evening and the same door, the same woman, the second visit of the day. Greet her for the hour it now is. Speak now.",
       "audioKey": "el-a05-t06",
@@ -236,13 +236,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a05-n11",
       "pt": "Signs give you Greek in Latin letters, by a standard, and that version is a poor guide to how a word sounds."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n12",
       "pt": "So ask for the Greek word and copy the stress off a voice, never off a road sign."
     },
@@ -252,7 +252,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a05-p07",
       "promptPt": "You are holding the thing and you have no word for it in either language. Point, and ask for the local one. Speak now.",
       "audioKey": "el-a05-t07",
@@ -278,7 +278,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a05-p08",
       "promptPt": "She spent four minutes on a two-minute customer. Close it with the two words that always belong at a door. Speak now.",
       "audioKey": "el-a05-t08",
@@ -298,7 +298,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a05-n13",
       "bloco": "recap",
       "pt": "A05 done. Six words, one honest caveat about the index, and a pen for whatever the ear misses."

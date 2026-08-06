@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b09-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -61,7 +61,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το ταμείο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b09-p01",
       "promptPt": "In the station hall, every machine has a queue and you would rather deal with a person. Speak now.",
       "audioKey": "el-b09-t01",
@@ -76,7 +76,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b09-p02",
       "promptPt": "You are at the window, you are travelling alone, and the person behind the glass is waiting. Speak now.",
       "audioKey": "el-b09-t02",
@@ -97,7 +97,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b09-n02",
       "bloco": "corpo",
       "pt": "In Athens the ninety-minute ticket is one euro twenty, and the ninety minutes run from the first validation."
@@ -110,7 +110,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το ακυρωτικό",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b09-p03",
       "promptPt": "The paper is in your hand and there is a small orange box somewhere on this platform. Ask the guard. Speak now.",
       "audioKey": "el-b09-t03",
@@ -131,7 +131,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b09-n03",
       "pt": "So validate on the way in. Until you do, it is a piece of paper and the ninety minutes have not started."
     },
@@ -141,7 +141,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b09-p04",
       "promptPt": "You bought a paper ticket on a route where you have only ever seen people tap a card. Check with the driver. Speak now.",
       "audioKey": "el-b09-t04",
@@ -156,7 +156,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b09-p05",
       "promptPt": "You have one more stop to make before the museum and you want to know if this paper covers both. Speak now.",
       "audioKey": "el-b09-t05",
@@ -167,13 +167,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b09-n04",
       "pt": "An unvalidated ticket in front of an inspector costs around a hundred euros. That figure is under revision."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b09-n05",
       "bloco": "capsula",
       "pt": "A ferry ticket is a different animal. By law it carries your name, sex, nationality and date of birth."
@@ -184,7 +184,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b09-p06",
       "promptPt": "At the ferry desk in Piraeus, there are two of you and the boat you want goes to Naxos. Speak now.",
       "audioKey": "el-b09-t06",
@@ -209,7 +209,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b09-p07",
       "promptPt": "The clerk has asked for something and your document is at the bottom of the bag. Check what they need. Speak now.",
       "audioKey": "el-b09-t07",
@@ -224,7 +224,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b09-p08",
       "promptPt": "At the gangway, the crew member looks at the paper and then at you. Confirm the obvious out loud. Speak now.",
       "audioKey": "el-b09-t08",
@@ -235,7 +235,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b09-n06",
       "pt": "So nobody buys a ferry ticket for you, and nobody hands a spare one along. The name has to be yours."
     },
@@ -247,7 +247,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "η αποβάθρα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b09-p09",
       "promptPt": "The boarding paper has a gate number on it and the quay in front of you has eight of them. Speak now.",
       "audioKey": "el-b09-t09",
@@ -258,7 +258,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b09-n07",
       "pt": "Numbers come fast at a window. You do not have to say them back — you have to catch two of them."
     },
@@ -268,7 +268,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b09-p10",
       "promptPt": "The clerk gave you the amount and the gate in one breath and you caught neither. Ask for it again, gently. Speak now.",
       "audioKey": "el-b09-t10",
@@ -298,7 +298,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b09-n08",
       "bloco": "recap",
       "pt": "B09 done. Buy it, put your name on it where the law asks, and start the clock before anyone else does."

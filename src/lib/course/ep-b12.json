@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b12-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b12-n02",
       "bloco": "molde",
       "pt": "The frame is χωρίς, then the thing you do not want. Subtract instead of describing."
@@ -69,7 +69,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "κρεμμύδι",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b12-p01",
       "promptPt": "The salad at this taverna comes built one way, and there is one thing in it you would rather leave out. Speak now.",
       "audioKey": "el-b12-t01",
@@ -90,7 +90,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b12-n03",
       "bloco": "corpo",
       "pt": "Χωρίς goes at the end, after the dish, and nothing in front of it has to change."
@@ -104,7 +104,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "πάγο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b12-p02",
       "promptPt": "The café fills every cold glass to the rim before it pours, and you want the glass to be drink. Speak now.",
       "audioKey": "el-b12-t02",
@@ -119,7 +119,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b12-p03",
       "promptPt": "A tray behind the glass at the bakery, no card beside it, and you cannot see what is under the top layer. Speak now.",
       "audioKey": "el-b12-t03",
@@ -130,7 +130,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b12-n04",
       "pt": "This is preference. The allergy sentence is a different tool, it is heavier, and it comes next."
     },
@@ -142,7 +142,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "γλουτένη",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b12-p04",
       "promptPt": "You are ordering at the souvlaki counter and the wrap is not going to work for you. Speak now.",
       "audioKey": "el-b12-t04",
@@ -160,7 +160,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "λακτόζη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b12-p05",
       "promptPt": "At the café the coffee arrives with milk in it unless someone says otherwise, and milk does not sit well with you. Speak now.",
       "audioKey": "el-b12-t05",
@@ -185,7 +185,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b12-p06",
       "promptPt": "The grilled fish is about to go out and you want it dressed the way the plate at the next table is. Speak now.",
       "audioKey": "el-b12-t06",
@@ -196,7 +196,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b12-n05",
       "bloco": "capsula",
       "pt": "Eating together is on the UNESCO heritage list, with Greece among the countries that proposed it."
@@ -210,7 +210,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "αλάτι",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b12-p07",
       "promptPt": "At the taverna the chips come seasoned hard, and you would rather do that part at the table. Speak now.",
       "audioKey": "el-b12-t07",
@@ -221,7 +221,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b12-n06",
       "pt": "Small plates for the middle get ordered the same way — one word at a time, out loud, as you go."
     },
@@ -231,7 +231,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b12-p08",
       "promptPt": "The small plate in the middle of the taverna table lasted four minutes and everyone is still looking at it. Speak now.",
       "audioKey": "el-b12-t08",
@@ -248,7 +248,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "σάλτσα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b12-p09",
       "promptPt": "The souvlaki counter builds every wrap in the same order, and one of the layers is not for you. Speak now.",
       "audioKey": "el-b12-t09",
@@ -264,7 +264,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b12-p10",
       "promptPt": "The trays are behind the counter at the taverna and the names on the card mean nothing to you yet. Speak now.",
       "audioKey": "el-b12-t10",
@@ -295,7 +295,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b12-n07",
       "bloco": "recap",
       "pt": "B12 done. Χωρίς plus the thing, and any plate on the card can be your version of it."

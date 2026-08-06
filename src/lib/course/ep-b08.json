@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b08-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b08-n02",
       "bloco": "molde",
       "pt": "Here is the frame: Πού είναι, then the place. The place goes in exactly as the map spells it."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "η στάση",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b08-p01",
       "promptPt": "The app says the bus leaves in four minutes and there is no shelter in sight. Ask the man at the kiosk. Speak now.",
       "audioKey": "el-b08-t01",
@@ -101,7 +101,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b08-n03",
       "bloco": "corpo",
       "pt": "Nothing changes shape after Πού είναι. You read the word on the map, and you say the word."
@@ -114,7 +114,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "η έξοδος",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b08-p02",
       "promptPt": "You are in a station hall with four stairways and none of them is signed in a way you can read. Speak now.",
       "audioKey": "el-b08-t02",
@@ -125,13 +125,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b08-n04",
       "pt": "Road signs are romanised by a standard used very widely in Greece — and it is a poor guide to the sound."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b08-n05",
       "pt": "So say the Greek, not the sign. ΒΟΛΟΣ is Volos, not Bolos: that Β is a V, and the Η is an ee."
     },
@@ -143,7 +143,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "η τουαλέτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b08-p03",
       "promptPt": "You are inside a café, you have already ordered, and there is one door at the back with no picture on it. Speak now.",
       "audioKey": "el-b08-t03",
@@ -160,7 +160,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το φαρμακείο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b08-p04",
       "promptPt": "Your blister has gone from annoying to limping, and you want the green cross on this street. Speak now.",
       "audioKey": "el-b08-t04",
@@ -177,7 +177,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το λιμάνι",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b08-p05",
       "promptPt": "You got off the train at Piraeus, everyone is walking in three directions, and your boat leaves at eight. Speak now.",
       "audioKey": "el-b08-t05",
@@ -198,7 +198,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b08-n06",
       "bloco": "capsula",
       "pt": "Now shrink the answer. Far or not, left or right, this way — three words and a pointed finger."
@@ -209,7 +209,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b08-p06",
       "promptPt": "They have just pointed down a long street and you need to know whether to walk it or find a bus. Speak now.",
       "audioKey": "el-b08-t06",
@@ -224,7 +224,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b08-p07",
       "promptPt": "The answer had four street names in it and you caught none of them. Offer them two options instead. Speak now.",
       "audioKey": "el-b08-t07",
@@ -235,7 +235,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b08-n07",
       "pt": "Research describes Greek politeness as leaning on closeness where English leans on distance. Short reads as normal."
     },
@@ -247,7 +247,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "πού είναι το ΑΤΜ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b08-p08",
       "promptPt": "You are stopping a stranger mid-stride on the pavement, and the machine you need takes cards. Speak now.",
       "audioKey": "el-b08-t08",
@@ -264,7 +264,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "χάρτη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b08-p09",
       "promptPt": "At the hotel desk, your phone is at six percent and paper survives a flat battery. Speak now.",
       "audioKey": "el-b08-t09",
@@ -295,7 +295,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b08-n08",
       "bloco": "recap",
       "pt": "B08 done. One frame, five places, and a follow-up short enough to be answered with a hand."

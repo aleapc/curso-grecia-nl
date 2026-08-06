@@ -41,7 +41,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i02-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -59,7 +59,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i02-n02",
       "bloco": "corpo",
       "pt": "Politeness research puts Greek on the side of closeness and English on the side of distance."
@@ -71,7 +71,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i02-p01",
       "promptPt": "Your turn at the counter, morning, one thing wanted and three people behind you. Speak now.",
       "audioKey": "el-i02-t01",
@@ -82,7 +82,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i02-n03",
       "pt": "Parakaló does four jobs: please, you're welcome, go ahead, and yes at a counter."
     },
@@ -95,7 +95,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "περιμένετε",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i02-p02",
       "promptPt": "Nobody is in a line and you cannot tell who got here first. Find out before you step forward. Speak now.",
       "audioKey": "el-i02-t02",
@@ -121,7 +121,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i02-p03",
       "promptPt": "He asked what you will have, and you take yours without sugar. Answer in one breath. Speak now.",
       "audioKey": "el-i02-t03",
@@ -132,7 +132,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i02-n04",
       "bloco": "molde",
       "pt": "The padded version is not heard as extra respect. It is heard as distance, which is not what you meant."
@@ -143,7 +143,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i02-p04",
       "promptPt": "Two of you, both thirsty, and the counter is waiting. Two words and the polite one. Speak now.",
       "audioKey": "el-i02-t04",
@@ -168,7 +168,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i02-p05",
       "promptPt": "You are staying, sitting at the little table by the window. Answer the question you were just asked. Speak now.",
       "audioKey": "el-i02-t05",
@@ -179,7 +179,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i02-n05",
       "bloco": "capsula",
       "pt": "The price list is on the wall by law, in Greek, before you order. You are allowed to read it first."
@@ -192,7 +192,7 @@
       "tipo": "responde",
       "voz": "target_el_f",
       "molde": "POSO-KANI",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i02-p06",
       "promptPt": "The list on the wall is in an alphabet you are still decoding. Get the number spoken instead. Speak now.",
       "audioKey": "el-i02-t06",
@@ -210,7 +210,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "πού πληρώνω",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i02-p07",
       "promptPt": "You have the cup in your hand and there are two possible tills and no queue at either. Speak now.",
       "audioKey": "el-i02-t07",
@@ -227,7 +227,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν κατάλαβα",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i02-p08",
       "promptPt": "The answer came back fast and over the noise of the machine. Say so, without apologising twice. Speak now.",
       "audioKey": "el-i02-t08",
@@ -252,7 +252,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i02-p09",
       "promptPt": "Your name has just been called over the counter and you are the one who ordered. Speak now.",
       "audioKey": "el-i02-t09",
@@ -263,7 +263,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i02-n06",
       "pt": "Say the greeting, then the thing, then parakaló. That is the whole shape of it."
     },
@@ -274,7 +274,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i02-p10",
       "promptPt": "Cup in hand, ten seconds spent, and you are stepping away from the counter. Close it. Speak now.",
       "audioKey": "el-i02-t10",
@@ -295,7 +295,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i02-n07",
       "bloco": "recap",
       "pt": "I02 done. One greeting, one thing, one parakaló — and parakaló coming back at you means go ahead."

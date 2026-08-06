@@ -26,7 +26,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -34,7 +34,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a08-n02",
       "bloco": "corpo",
       "pt": "The shape is the same every time: name the person, name the thing they did, name when you are coming back."
@@ -45,7 +45,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a08-p01",
       "promptPt": "The woman at the guesthouse desk fixed four separate things this week without being asked. Open the goodbye. Speak now.",
       "audioKey": "el-a08-t01",
@@ -66,7 +66,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n03",
       "pt": "Then be specific. Thanks for everything is polite; naming the dish is what the cook actually hears."
     },
@@ -76,7 +76,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a08-p02",
       "promptPt": "You are settling up at the taverna you came back to three nights running. Say the one thing worth saying. Speak now.",
       "audioKey": "el-a08-t02",
@@ -97,7 +97,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a08-n04",
       "pt": "Say a season, not someday. Summer's share of arrivals fell from fifty-six percent to fifty; spring and winter are growing."
     },
@@ -107,7 +107,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a08-p03",
       "promptPt": "They asked when, and vagueness would waste the moment. Put a season on it. Speak now.",
       "audioKey": "el-a08-t03",
@@ -118,7 +118,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n05",
       "bloco": "capsula",
       "pt": "Then ask for the card. It gives you a name to book with, and it says out loud that you intend to be back."
@@ -132,7 +132,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "κάρτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a08-p04",
       "promptPt": "You want a way to reach this place directly next year instead of through a booking site. Ask at the desk. Speak now.",
       "audioKey": "el-a08-t04",
@@ -159,7 +159,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "το ίδιο δωμάτιο του χρόνου",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a08-p05",
       "promptPt": "One of them looked straight at the harbour, and you would rather not be reassigned when you come back. Say so at the desk. Speak now.",
       "audioKey": "el-a08-t05",
@@ -170,7 +170,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a08-n06",
       "pt": "One more line is worth more than any review you could write, and it costs you nothing at all to say."
     },
@@ -180,7 +180,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a08-p06",
       "promptPt": "You mean it, and the family running this place will hear it as the best thing said to them all week. Speak now.",
       "audioKey": "el-a08-t06",
@@ -206,7 +206,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a08-p07",
       "promptPt": "The person in front of you spent an hour of their own time on you on Tuesday. Close a first meeting properly. Speak now.",
       "audioKey": "el-a08-t07",
@@ -217,7 +217,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n07",
       "pt": "Να είστε καλά is the warmest thing in the whole kit and costs nothing. It means be well, and it lands every time."
     },
@@ -227,7 +227,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a08-p08",
       "promptPt": "The bag is on your shoulder and one line is still owed to the people at the door. Speak now.",
       "audioKey": "el-a08-t08",
@@ -238,7 +238,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a08-n08",
       "pt": "And the goodbye of someone who plans to return: καλή αντάμωση. Until we meet again, said as a plan."
     },
@@ -249,7 +249,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a08-p09",
       "promptPt": "Last line of the trip, at the door, to someone you fully intend to see again. Speak now.",
       "audioKey": "el-a08-t09",
@@ -270,13 +270,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n09",
       "pt": "Eight openings carried this entire trip, and they fit on one card in your pocket. Here they are, in order."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a08-n10",
       "pt": "Έχετε, μπορώ να, πού είναι, θα ήθελα. Then χωρίς, πόσο κάνει, ψάχνω, and συγγνώμη in front of any of them."
     },
@@ -291,7 +291,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a08-n11",
       "bloco": "recap",
       "pt": "A08 done, and the course with it. Name them, name the thing, name the season. Eight openings in your pocket."

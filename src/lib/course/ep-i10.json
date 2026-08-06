@@ -65,7 +65,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -73,7 +73,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i10-n02",
       "bloco": "corpo",
       "pt": "First: taking your card is an obligation here, not a courtesy — written in law, tied to the trade's activity code."
@@ -94,7 +94,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i10-p01",
       "promptPt": "You are still in the doorway of a small place off the square, nothing ordered, wallet unopened. Settle it now. Speak now.",
       "audioKey": "el-i10-t01",
@@ -117,7 +117,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n03",
       "pt": "The same law makes them post it. A card sign at the entrance and another at the till is part of the duty."
     },
@@ -128,7 +128,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i10-p02",
       "promptPt": "The little terminal behind the counter is face down and there is no sign anywhere on the glass. Check the one thing that decides your next ten minutes. Speak now.",
       "audioKey": "el-i10-t02",
@@ -139,7 +139,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i10-n04",
       "pt": "Coverage runs by list, not by everything. Some very small trade sits outside it, so keep notes for the day it does."
     },
@@ -152,7 +152,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "όλα μαζί",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i10-p03",
       "promptPt": "Four of you ordered in waves over two hours and exactly one card is coming out. Get the figure before it does. Speak now.",
       "audioKey": "el-i10-t03",
@@ -163,7 +163,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n05",
       "pt": "That is the frame from B15, working at a table instead of a shelf. One opening, and the number arrives."
     },
@@ -174,7 +174,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i10-p04",
       "promptPt": "The plates were cleared twenty minutes ago, nobody is coming past, and you have a boat at six. Speak now.",
       "audioKey": "el-i10-t04",
@@ -185,7 +185,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i10-n06",
       "bloco": "capsula",
       "pt": "Second: cash stops at five hundred euros. At or above that figure the payment goes electronic, by card or transfer."
@@ -197,7 +197,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i10-p05",
       "promptPt": "The total is well over what is in your wallet and three people are waiting behind you. Say how this ends. Speak now.",
       "audioKey": "el-i10-t05",
@@ -208,7 +208,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n07",
       "pt": "Third, and this part is new. Since August 2025, taking money out where a community has a single machine costs nothing."
     },
@@ -221,7 +221,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "η προμήθεια",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i10-p06",
       "promptPt": "The only machine in the village wants you to agree to a screen of small print before it counts anything out, and the kiosk owner is standing right there. Speak now.",
       "audioKey": "el-i10-t06",
@@ -242,7 +242,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i10-n08",
       "pt": "An independent operator cannot charge more than one euro fifty a withdrawal, anywhere in the country."
     },
@@ -253,7 +253,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i10-p07",
       "promptPt": "The kiosk owes you four euros back and everything in your hand is a fifty the machine just spat out. Speak now.",
       "audioKey": "el-i10-t07",
@@ -264,7 +264,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n09",
       "pt": "You will see a domestic instant-payment app on till signs. It runs on Greek bank accounts, so it is not yours to use."
     },
@@ -274,7 +274,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i10-p08",
       "promptPt": "Two of you, two cards already out, one small tray in the middle of the table. Speak now.",
       "audioKey": "el-i10-t08",
@@ -295,7 +295,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i10-n10",
       "pt": "Fourth: the tip. No institution publishes a percentage here, because there is no percentage to publish. Round up."
     },
@@ -305,7 +305,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i10-p09",
       "promptPt": "Long lunch, attentive service, and the coins have just landed on the saucer in front of you. Close it without arithmetic. Speak now.",
       "audioKey": "el-i10-t09",
@@ -316,7 +316,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n11",
       "pt": "The printed receipt is the trader's legal duty, not a favour to you. Ask for it and it appears."
     },
@@ -327,7 +327,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i10-p10",
       "promptPt": "The terminal beeps, the drawer shuts, and nothing at all has printed. You want the paper for the hire-car claim. Speak now.",
       "audioKey": "el-i10-t10",
@@ -348,7 +348,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i10-n12",
       "bloco": "recap",
       "pt": "I10 done, and GET THE GOOD STUFF with it. Card by law, cash to five hundred, and the machine fee has a ceiling."

@@ -27,7 +27,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -35,20 +35,20 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a07-n02",
       "bloco": "corpo",
       "pt": "Politeness research puts Greek on the involvement side and English on the distance side. That is measured, not folklore."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n03",
       "pt": "So warmth can read to you as intrusion, and your good manners can read to them as coldness. Both readings are wrong."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a07-n04",
       "pt": "First signal: εσείς and εσύ. Formal and familiar, and the same distinction you already met in γεια σας and γεια σου."
     },
@@ -68,7 +68,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a07-p01",
       "promptPt": "Someone behind a counter has been kind to you three days running and you still do not know how to address them. Ask, politely. Speak now.",
       "audioKey": "el-a07-t01",
@@ -79,7 +79,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n05",
       "pt": "The move to εσύ is offered, not taken. You start on εσείς and wait for someone to open the other door."
     },
@@ -99,7 +99,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a07-p02",
       "promptPt": "The door just opened and the only wrong answer is hesitating. Take it, warmly. Speak now.",
       "audioKey": "el-a07-t02",
@@ -110,7 +110,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a07-n06",
       "bloco": "capsula",
       "pt": "Second signal: the no. A short upward tilt of the head with a small click of the tongue. It is not disapproval."
@@ -127,7 +127,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n07",
       "pt": "An English ear hears that click as impatience. It is closer to a shrug, and it saves everyone a sentence."
     },
@@ -140,7 +140,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν κατάλαβα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a07-p03",
       "promptPt": "Something arrived fast and flat and you caught none of it. Open the repair before the moment closes. Speak now.",
       "audioKey": "el-a07-t03",
@@ -151,7 +151,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a07-n08",
       "pt": "Third: volume. A raised voice at the next table is far more often engagement than temperature. Listen to the faces."
     },
@@ -173,7 +173,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "καθίσω εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a07-p04",
       "promptPt": "There is one free chair at a busy table and nobody has looked up yet. Ask before you take it. Speak now.",
       "audioKey": "el-a07-t04",
@@ -184,7 +184,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n09",
       "pt": "Fourth: the open palm pushed towards someone's face is read as an insult. Wave with your fingers together."
     },
@@ -194,7 +194,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a07-p05",
       "promptPt": "Two people were mid-conversation when you walked up, and you would rather check than assume. One word does it. Speak now.",
       "audioKey": "el-a07-t05",
@@ -215,7 +215,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a07-n10",
       "pt": "And the last set: leaving. Καλή συνέχεια and στο καλό are release, not dismissal. They mean go well."
     },
@@ -225,7 +225,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a07-p06",
       "promptPt": "An hour at a table you were not expecting to join, and you want to name what you are grateful for. Speak now.",
       "audioKey": "el-a07-t06",
@@ -246,7 +246,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n11",
       "pt": "Να πηγαίνω is how you open the leaving, not how you finish it. Say it early and expect to be kept."
     },
@@ -257,7 +257,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a07-p07",
       "promptPt": "You genuinely have to be somewhere, and you want to start the long goodbye rather than cut it. Speak now.",
       "audioKey": "el-a07-t07",
@@ -273,7 +273,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a07-p08",
       "promptPt": "You are on your feet, coat in hand, and one warm line is still owed to the person who pulled the chair out. Speak now.",
       "audioKey": "el-a07-t08",
@@ -293,7 +293,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a07-n12",
       "bloco": "recap",
       "pt": "A07 done. Wait to be moved to εσύ, read the click as no, hear volume as engagement, and start leaving early."

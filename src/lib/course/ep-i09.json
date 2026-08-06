@@ -28,7 +28,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i09-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -36,7 +36,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i09-n02",
       "bloco": "corpo",
       "pt": "Two openings you already own do most of this: psachno for what you want, boro na for what you may do."
@@ -59,7 +59,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "τη λαϊκή αγορά",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i09-p01",
       "promptPt": "Someone told you the neighbourhood has a street market and you are two streets away from something noisy. Ask. Speak now.",
       "audioKey": "el-i09-t01",
@@ -84,7 +84,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i09-p02",
       "promptPt": "You want to come back tomorrow morning and you do not want to arrive as they pack up. Ask about the start. Speak now.",
       "audioKey": "el-i09-t02",
@@ -104,7 +104,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "κάτι ντόπιο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i09-p03",
       "promptPt": "You are at a stall stacked with things you cannot name and you want whatever is from here. Speak now.",
       "audioKey": "el-i09-t03",
@@ -121,7 +121,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "δοκιμάσω",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i09-p04",
       "promptPt": "There is an open tub of olives on the stall and a spoon beside it. Ask before your hand moves. Speak now.",
       "audioKey": "el-i09-t04",
@@ -140,13 +140,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i09-n03",
       "pt": "Sunday closing was written in 1909, and tavernas, cafés, patisseries and tourist shops were exempt from the start."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i09-n04",
       "pt": "Which other shops may open has been argued and litigated for years, so ask the one you care about rather than plan on it."
     },
@@ -157,7 +157,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i09-p05",
       "promptPt": "You want to come back on Sunday to this particular counter and the sign gives you nothing. Ask them directly. Speak now.",
       "audioKey": "el-i09-t05",
@@ -178,7 +178,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i09-n05",
       "bloco": "capsula",
       "pt": "Coffee is the unit of the afternoon, not the fuel for it. One freddo buys the table for as long as you want it."
@@ -189,7 +189,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i09-p06",
       "promptPt": "It is four in the afternoon, thirty-one degrees, and every table around you has the same tall glass. Order one. Speak now.",
       "audioKey": "el-i09-t06",
@@ -206,7 +206,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "καθίσω εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i09-p07",
       "promptPt": "There is one free table under the tree and nobody has looked up at you yet. Ask before you sit. Speak now.",
       "audioKey": "el-i09-t07",
@@ -221,7 +221,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i09-p08",
       "promptPt": "The person who brought your coffee is standing there with nothing to do. Ask what the day looks like from the inside. Speak now.",
       "audioKey": "el-i09-t08",
@@ -232,7 +232,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i09-n06",
       "pt": "The square after dark is the other half of it. Ask what is on tonight instead of looking it up on a screen."
     },
@@ -242,7 +242,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i09-p09",
       "promptPt": "Chairs are being carried into the square and something is clearly being set up. Ask about tonight. Speak now.",
       "audioKey": "el-i09-t09",
@@ -268,7 +268,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i09-p10",
       "promptPt": "You have finished the coffee, the light is going, and the person you came with is on their phone. Propose the obvious. Speak now.",
       "audioKey": "el-i09-t10",
@@ -289,7 +289,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i09-n07",
       "bloco": "recap",
       "pt": "I09 done. Market early, one coffee for an hour, and a question in the square about tonight."

@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b07-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b07-n02",
       "bloco": "molde",
       "pt": "Here is the frame: Μπορώ να, then what you want to do. Can I — and then the verb."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "πληρώσω με κάρτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b07-p01",
       "promptPt": "At the taxi rank, before the door closes: you have no cash on you at all. Check first. Speak now.",
       "audioKey": "el-b07-t01",
@@ -101,7 +101,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b07-n03",
       "bloco": "corpo",
       "pt": "The frame does not ask the world for permission. It asks this person, at this counter, right now."
@@ -114,7 +114,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "αγοράσω εισιτήριο εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b07-p02",
       "promptPt": "At the metro ticket office, both machines have a paper sign on them and a person sits behind the glass. Speak now.",
       "audioKey": "el-b07-t02",
@@ -125,7 +125,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b07-n04",
       "pt": "Card is not a favour here. Whole categories of trade are obliged to take it, and to say so at the door."
     },
@@ -137,7 +137,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "πάρω απόδειξη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b07-p03",
       "promptPt": "The driver has taken your money and is already reaching for the door handle. Ask for the printed slip. Speak now.",
       "audioKey": "el-b07-t03",
@@ -148,7 +148,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b07-n05",
       "pt": "The airport metro is nine euros one way, sixteen return. The Express bus into town is five fifty."
     },
@@ -170,7 +170,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "καθίσω εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b07-p04",
       "promptPt": "The Express bus is full and the one free place has someone's bag on it. Ask the woman beside it. Speak now.",
       "audioKey": "el-b07-t04",
@@ -187,7 +187,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "περάσω",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b07-p05",
       "promptPt": "You are three bodies away from the doors of the Express bus and they are about to open. Speak now.",
       "audioKey": "el-b07-t05",
@@ -204,7 +204,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "κατέβω εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b07-p06",
       "promptPt": "The Express bus is stopped at a light and the square you were aiming for is right outside the window. Speak now.",
       "audioKey": "el-b07-t06",
@@ -215,7 +215,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b07-n06",
       "bloco": "capsula",
       "pt": "Same two words every time. Μπορώ να, then pay, buy, sit, get past, get off, leave the bag."
@@ -228,7 +228,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "αφήσω τη βαλίτσα εδώ",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b07-p07",
       "promptPt": "At the hotel front desk, the room is not ready until two and you want your hands free until then. Speak now.",
       "audioKey": "el-b07-t07",
@@ -249,7 +249,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b07-n07",
       "pt": "The taxi rank at the airport works on a posted flat fare into town. Ask before the door shuts, not after."
     },
@@ -259,7 +259,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b07-p08",
       "promptPt": "You are in the taxi with the door closed and the driver is waiting for one piece of information. Speak now.",
       "audioKey": "el-b07-t08",
@@ -274,7 +274,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b07-p09",
       "promptPt": "The ride is over and your bag is already out on the pavement. Close it the way people close things here. Speak now.",
       "audioKey": "el-b07-t09",
@@ -295,7 +295,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b07-n08",
       "bloco": "recap",
       "pt": "B07 done. One frame carried you from the terminal to the front desk with no new sentence anywhere."

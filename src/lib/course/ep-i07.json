@@ -27,7 +27,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i07-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -35,7 +35,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i07-n02",
       "bloco": "corpo",
       "pt": "Praise first. Poli oreo is warm and it is also nothing. Name the dish and it becomes a message someone can carry."
@@ -55,7 +55,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i07-p01",
       "promptPt": "One plate on the table was better than everything else on it. Praise that one by name. Speak now.",
       "audioKey": "el-i07-t01",
@@ -76,7 +76,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i07-n03",
       "pt": "Nostimo, iperoho, exeretiko. Three ordinary words here, and every one of them beats a nod and a smile."
     },
@@ -86,7 +86,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i07-p02",
       "promptPt": "The plates are being cleared and the two of you are still eating well. Say so as they pass. Speak now.",
       "audioKey": "el-i07-t02",
@@ -101,7 +101,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i07-p03",
       "promptPt": "You want the praise to go past the person serving and reach whoever cooked. Speak now.",
       "audioKey": "el-i07-t03",
@@ -116,7 +116,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i07-p04",
       "promptPt": "It is the room you like, not one dish — the light, the noise, the whole thing. Say it on your way past the counter. Speak now.",
       "audioKey": "el-i07-t04",
@@ -127,7 +127,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i07-n04",
       "bloco": "capsula",
       "pt": "Now the other one. Signomi, then the fact, then stop talking. No story, no apology stacked on top of it."
@@ -140,7 +140,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "αυτό είναι κρύο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i07-p05",
       "promptPt": "The plate in front of you came out cold. Say only that, in a level voice. Speak now.",
       "audioKey": "el-i07-t05",
@@ -159,7 +159,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i07-n05",
       "pt": "Research puts the two languages on opposite settings: Greek leans to closeness, English to distance. Neither one is rudeness."
     },
@@ -171,7 +171,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν παρήγγειλα αυτό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i07-p06",
       "promptPt": "Something landed in front of you that nobody at this table asked for. Say that, and nothing else. Speak now.",
       "audioKey": "el-i07-t06",
@@ -187,7 +187,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i07-p07",
       "promptPt": "The glass they put down has a chip on the rim. Ask for the swap, no explanation attached. Speak now.",
       "audioKey": "el-i07-t07",
@@ -198,7 +198,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i07-n06",
       "pt": "Signomi comes first every single time. It is the knock, and whatever follows it lands as information."
     },
@@ -211,7 +211,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "θα αργήσει πολύ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i07-p08",
       "promptPt": "Forty minutes have gone by and the table beside you is on dessert. Ask about the wait without accusing anyone. Speak now.",
       "audioKey": "el-i07-t08",
@@ -236,7 +236,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i07-p09",
       "promptPt": "They sorted the whole thing in under a minute. Close the loop so the table stays warm. Speak now.",
       "audioKey": "el-i07-t09",
@@ -252,7 +252,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i07-p10",
       "promptPt": "You are standing up to leave and you mean it about coming back. Say the strongest compliment there is. Speak now.",
       "audioKey": "el-i07-t10",
@@ -273,7 +273,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i07-n07",
       "bloco": "recap",
       "pt": "I07 done. Name the dish to send praise through, name the fact to get the plate sorted, and close warm either way."

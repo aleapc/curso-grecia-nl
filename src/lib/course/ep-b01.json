@@ -26,7 +26,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -34,7 +34,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b01-n02",
       "gesto": 1,
       "bloco": "corpo",
@@ -42,7 +42,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n03",
       "pt": "Move one. Almost every Greek word of two syllables prints its beat. Flick where the mark is, not where English wants."
     },
@@ -61,7 +61,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b01-p01",
       "promptPt": "It is early, you are crossing the doorway of a bakery, and the woman behind the counter looks up. Speak now.",
       "audioKey": "el-b01-t01",
@@ -72,7 +72,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b01-n04",
       "pt": "Move two. Theta is the th of thin. Delta is the th of this. Two of the rarest sounds on earth, already yours."
     },
@@ -93,7 +93,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b01-p02",
       "promptPt": "At the station window, one journey, one person, and the destination is the capital. Speak now.",
       "audioKey": "el-b01-t02",
@@ -108,7 +108,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b01-p03",
       "promptPt": "The answer came back at full speed and none of it landed. Say so, and let the first sound be the th of this. Speak now.",
       "audioKey": "el-b01-t03",
@@ -119,7 +119,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n05",
       "pt": "Move three. Chi is the new one. Push air over the back of the tongue and keep it running — never kick it like a k."
     },
@@ -140,7 +140,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b01-p04",
       "promptPt": "You walk into a taverna at midday and two people at the till look up together. Greet the room. Speak now.",
       "audioKey": "el-b01-t04",
@@ -155,7 +155,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b01-p05",
       "promptPt": "She has just wrapped the thing and handed it across. The air sound is in the middle, and the beat is at the very end. Speak now.",
       "audioKey": "el-b01-t05",
@@ -166,7 +166,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b01-n06",
       "pt": "Move four. Rho is r, not p. Eta is i, not h. Your eye has to unlearn two shapes it thinks it already knows."
     },
@@ -187,7 +187,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b01-p06",
       "promptPt": "At the table, the jug is empty and the label on the bottle behind the bar starts with the letter that is not a v. Speak now.",
       "audioKey": "el-b01-t06",
@@ -198,7 +198,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n07",
       "pt": "Move five. Nu is n, psi is ps, xi is x, and epsilon plus upsilon comes out ef. Read the sound, not the shape."
     },
@@ -208,7 +208,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b01-p07",
       "promptPt": "Back at the bakery, your finger is on the round brown one on the top tray and there is one person ahead of you. Speak now.",
       "audioKey": "el-b01-t07",
@@ -219,7 +219,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b01-n08",
       "bloco": "capsula",
       "pt": "Move six. Συγγνώμη is the hardest word in the kit. Its middle is the ng-n of wing nut, said in one go."
@@ -239,7 +239,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b01-p08",
       "promptPt": "The aisle is narrow and your bag has just caught somebody's arm. One word, three pieces. Speak now.",
       "audioKey": "el-b01-t08",
@@ -250,7 +250,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n09",
       "pt": "One more thing about signs. The Latin spelling on a road sign is a spelling rule, not a guide to how the word sounds."
     },
@@ -260,7 +260,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b01-p09",
       "promptPt": "You are at the door on your way out and she is still behind the counter. Two syllables, and the beat is on the first. Speak now.",
       "audioKey": "el-b01-t09",
@@ -289,7 +289,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b01-n10",
       "bloco": "recap",
       "pt": "B01 done. Beat on the printed accent, theta and delta free, chi on air, rho as r, eta as i, Συγγνώμη in one go."

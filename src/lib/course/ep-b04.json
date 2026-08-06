@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b04-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,14 +58,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b04-n02",
       "bloco": "corpo",
       "pt": "One: the health card. It buys the state system at resident conditions, and it leaves a known share with you."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b04-n03",
       "pt": "Two: any ferry ticket. In Greece it carries a name by law, so book it under the passenger who travels."
     },
@@ -83,7 +83,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b04-p01",
       "promptPt": "You are ringing the hotel a week before the flight. Open with the job, in one line. Speak now.",
       "audioKey": "el-b04-t01",
@@ -94,7 +94,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b04-n04",
       "pt": "A hotel name is not a destination. A driver and an offline map both want the street and the number."
     },
@@ -105,7 +105,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b04-p02",
       "promptPt": "The booking page shows a brand name and a neighbourhood. Get the thing a driver can actually drive to. Speak now.",
       "audioKey": "el-b04-t02",
@@ -128,7 +128,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b04-p03",
       "promptPt": "You will not hold that in your head, and a tick inside an app is not proof. Ask for it another way. Speak now.",
       "audioKey": "el-b04-t03",
@@ -139,7 +139,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b04-n05",
       "pt": "A late arrival is worth saying out loud. Small front desks are not always staffed through the night."
     },
@@ -149,7 +149,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b04-p04",
       "promptPt": "Your flight lands at eight and the metro takes an hour. Tell them when to expect you. Speak now.",
       "audioKey": "el-b04-t04",
@@ -164,7 +164,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b04-p05",
       "promptPt": "Now check that somebody will be standing there when you push the door. Speak now.",
       "audioKey": "el-b04-t05",
@@ -185,7 +185,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b04-n06",
       "pt": "Three: cash. Decide the amount now — a single bill of five hundred euros or more cannot be paid in notes."
     },
@@ -195,7 +195,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b04-p06",
       "promptPt": "Before you decide how many notes to bring, find out how this place wants to be paid. Speak now.",
       "audioKey": "el-b04-t06",
@@ -211,7 +211,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b04-p07",
       "promptPt": "Get something you can dial from someone else's handset if yours arrives flat. Speak now.",
       "audioKey": "el-b04-t07",
@@ -222,7 +222,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b04-n07",
       "bloco": "capsula",
       "pt": "Four: the ferry office wants the passenger, not the buyer. Every ticket carries a name, and the name is checked."
@@ -233,7 +233,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b04-p08",
       "promptPt": "You are booking the island crossing over the phone and the details were read out fast. Check whose crossing it is. Speak now.",
       "audioKey": "el-b04-t08",
@@ -244,7 +244,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b04-n08",
       "pt": "Five: save the address in Greek letters too. Latin spellings vary; the Greek one is what matches the sign."
     },
@@ -254,7 +254,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b04-p09",
       "promptPt": "The call did everything you rang for. Close it warmly and finish. Speak now.",
       "audioKey": "el-b04-t09",
@@ -274,7 +274,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b04-n09",
       "bloco": "recap",
       "pt": "B04 done. Card ordered, ticket in your own name, cash decided, address in hand — in both alphabets."

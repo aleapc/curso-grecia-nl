@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b05-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -56,7 +56,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b05-n02",
       "bloco": "corpo",
       "pt": "A short question with no cushioning is the local shape of closeness here, not a sign of impatience."
@@ -67,7 +67,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b05-p01",
       "promptPt": "You are here to walk around, eat well and go home again. Say it in four words. Speak now.",
       "audioKey": "el-b05-t01",
@@ -86,7 +86,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b05-n03",
       "pt": "Use your own number, not the one in this part. The shape of the answer stays exactly this short."
     },
@@ -96,7 +96,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b05-p02",
       "promptPt": "Give the length of the stay and nothing else. Two words. Speak now.",
       "audioKey": "el-b05-t02",
@@ -117,7 +117,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b05-n04",
       "pt": "Not the story of how you found the place. Town, kind of place, full stop."
     },
@@ -128,7 +128,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b05-p03",
       "promptPt": "Say where you sleep, briefly — the town and the kind of place. Speak now.",
       "audioKey": "el-b05-t03",
@@ -151,7 +151,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b05-p04",
       "promptPt": "Hand over the offline copy you saved last night, and let the document do the talking. Speak now.",
       "audioKey": "el-b05-t04",
@@ -162,14 +162,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b05-n05",
       "bloco": "capsula",
       "pt": "Ορίστε is the whole sentence. Three syllables and an open hand outrun any paragraph you could build."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b05-n06",
       "pt": "If it went past you, say so once. Συγγνώμη opens the repair and no desk minds hearing it."
     },
@@ -181,7 +181,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν κατάλαβα",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b05-p05",
       "promptPt": "It went past you too fast. Say so cleanly, without apologising twice. Speak now.",
       "audioKey": "el-b05-t05",
@@ -198,7 +198,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "πιο αργά",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b05-p06",
       "promptPt": "The question came back at the same speed as the first time. Ask for the one thing that would fix it. Speak now.",
       "audioKey": "el-b05-t06",
@@ -209,7 +209,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b05-n07",
       "pt": "Μόνος μου if you are a man, μόνη μου if you are a woman. One letter, and it is the only thing that moves."
     },
@@ -219,7 +219,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b05-p07",
       "promptPt": "Nobody is with you on this trip. Say it in three words, in the form that matches you. Speak now.",
       "audioKey": "el-b05-t07",
@@ -235,7 +235,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b05-p08",
       "promptPt": "They ask whether Athens is the whole trip. Answer truthfully and briefly. Speak now.",
       "audioKey": "el-b05-t08",
@@ -246,7 +246,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b05-n08",
       "pt": "Some officers switch to English and some do not. The three Greek answers work either way."
     },
@@ -264,7 +264,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b05-p09",
       "promptPt": "Four words, take the passport, walk. Speak now.",
       "audioKey": "el-b05-t09",
@@ -284,7 +284,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b05-n09",
       "bloco": "recap",
       "pt": "B05 done. Purpose, days, where you sleep, ορίστε. Short is not evasive — short means the answer matched."

@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b18-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b18-n02",
       "bloco": "molde",
       "pt": "Ask them to keep the bags before you hand back the key. That request buys the day back."
@@ -57,7 +57,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p01",
       "promptPt": "You are at the desk at half past ten with the key in your hand. Open the check-out. Speak now.",
       "audioKey": "el-b18-t01",
@@ -74,7 +74,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "αφήσω τις βαλίτσες μέχρι το βράδυ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b18-p02",
       "promptPt": "The room goes back at eleven and your flight is at nine tonight. Ask before you hand the key over. Speak now.",
       "audioKey": "el-b18-t02",
@@ -95,7 +95,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b18-n03",
       "bloco": "corpo",
       "pt": "Μπορώ να still opens everything on this floor. Leave the bag, hand back the key, call a car."
@@ -108,7 +108,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "αφήσω το κλειδί εδώ",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p03",
       "promptPt": "Nobody is behind the desk and there is a small bowl on the counter. Call through to the back and ask. Speak now.",
       "audioKey": "el-b18-t03",
@@ -126,7 +126,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "όλα μαζί",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b18-p04",
       "promptPt": "Seven nights, three breakfasts and two things from the fridge are about to be added up. Speak now.",
       "audioKey": "el-b18-t04",
@@ -143,7 +143,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "πληρώσω με κάρτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p05",
       "promptPt": "The total has just been said out loud and you have no wish to count notes. Speak now.",
       "audioKey": "el-b18-t05",
@@ -167,7 +167,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b18-p06",
       "promptPt": "Halfway down the street you picture the charger still in the socket by the bed. Go back and say it. Speak now.",
       "audioKey": "el-b18-t06",
@@ -178,7 +178,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b18-n04",
       "pt": "Πόσο κάνει before you commit is worth as much on the last day as it was on the first one."
     },
@@ -191,7 +191,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "η διαδρομή για το αεροδρόμιο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p07",
       "promptPt": "A driver has stopped and the boot is open, and you have not agreed anything yet. Speak now.",
       "audioKey": "el-b18-t07",
@@ -202,7 +202,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b18-n05",
       "pt": "In Athens the metro out is nine euros, sixteen return, and the Express bus is five fifty."
     },
@@ -214,7 +214,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "καλέσω ταξί από εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b18-p08",
       "promptPt": "It is raining, the bags are heavy and the desk has a phone on it. Speak now.",
       "audioKey": "el-b18-t08",
@@ -225,7 +225,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b18-n06",
       "pt": "If your way out is a boat, the ticket carries your name. Nobody travels on someone else's."
     },
@@ -241,7 +241,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b18-n07",
       "bloco": "capsula",
       "pt": "Then the goodbye, which is short here and does considerably more than it looks like it does."
@@ -252,7 +252,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p09",
       "promptPt": "The same person has sorted out four things for you this week and is behind the desk now. Speak now.",
       "audioKey": "el-b18-t09",
@@ -263,7 +263,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b18-n08",
       "pt": "Θα ξανάρθω — I'll come back. Say it loosely: it lands as warmth, not as a promise you owe."
     },
@@ -274,7 +274,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b18-p10",
       "promptPt": "You are at the door with the bag on your shoulder and they are watching you go. Speak now.",
       "audioKey": "el-b18-t10",
@@ -298,7 +298,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b18-p11",
       "promptPt": "They have just wished you a good journey and you have one line left to give back. Speak now.",
       "audioKey": "el-b18-t11",
@@ -318,7 +318,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b18-n09",
       "bloco": "recap",
       "pt": "B18 done, and the module with it. The bag is safe, the bill is settled, the door is open."

@@ -26,7 +26,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -34,7 +34,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b13-n02",
       "pt": "The hammer is έχω αλλεργία — I have an allergy — and then the thing. It never changes shape."
     },
@@ -54,7 +54,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p01",
       "promptPt": "The waiter has the pad open and nothing has gone to the kitchen yet. This is the moment. Speak now.",
       "audioKey": "el-b13-t01",
@@ -75,7 +75,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n03",
       "bloco": "corpo",
       "pt": "Say it before you order, never when the plate arrives. A kitchen can only help you while it is still cooking."
@@ -87,7 +87,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b13-p02",
       "promptPt": "He nods and starts writing. You want the line that moves this out of the taste column. Speak now.",
       "audioKey": "el-b13-t02",
@@ -98,7 +98,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b13-n04",
       "pt": "Two words, είναι σοβαρό. In any language that is the difference between a request and a condition."
     },
@@ -110,7 +110,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "ξηρούς καρπούς",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p03",
       "promptPt": "The salad on the board comes dressed with something crunchy on top. Subtract it. Speak now.",
       "audioKey": "el-b13-t03",
@@ -135,7 +135,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b13-p04",
       "promptPt": "A white sauce has appeared beside the bread and nobody has named it. Ask about milk. Speak now.",
       "audioKey": "el-b13-t04",
@@ -146,7 +146,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n05",
       "pt": "Χωρίς subtracts. It is the same small word you already used at the table, doing much heavier work here."
     },
@@ -158,7 +158,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "γλουτένη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p05",
       "promptPt": "You are ordering for someone at the table who cannot have wheat in anything. Speak now.",
       "audioKey": "el-b13-t05",
@@ -169,7 +169,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b13-n06",
       "pt": "Plates travel here. Μεζέδες land in the middle and everyone reaches, so your line belongs to the whole table."
     },
@@ -179,7 +179,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b13-p06",
       "promptPt": "A dish you did not order is being set down in the middle for everyone. Open it up before a fork goes in. Speak now.",
       "audioKey": "el-b13-t06",
@@ -206,7 +206,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "σουσάμι",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p07",
       "promptPt": "He is still holding the plate and can take it back to the kitchen. Answer the last thing he said. Speak now.",
       "audioKey": "el-b13-t07",
@@ -217,7 +217,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n07",
       "pt": "Carry it written in Greek on your phone. A card takes your accent out of the exchange entirely."
     },
@@ -227,7 +227,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b13-p08",
       "promptPt": "The room is loud and he has asked you to repeat yourself twice. Your phone is already open at the right screen. Speak now.",
       "audioKey": "el-b13-t08",
@@ -243,7 +243,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p09",
       "promptPt": "He has read the screen and understood. The person who needs to read it next is behind the door. Speak now.",
       "audioKey": "el-b13-t09",
@@ -254,7 +254,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b13-n08",
       "pt": "If breathing changes, the number is 112. It reaches everything, in English, anywhere in the country. Ambulances are 166."
     },
@@ -265,7 +265,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b13-p10",
       "promptPt": "Something has gone wrong and there are people around you who do not yet know why. Two short sentences. Speak now.",
       "audioKey": "el-b13-t10",
@@ -276,7 +276,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n09",
       "bloco": "capsula",
       "pt": "Put the two halves together and say them as one breath. That version is the one you want in your mouth."
@@ -288,7 +288,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b13-p11",
       "promptPt": "New taverna, new waiter, and today the risk on the board is peanut oil. Both halves, one breath. Speak now.",
       "audioKey": "el-b13-t11",
@@ -309,7 +309,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b13-n10",
       "bloco": "recap",
       "pt": "B13 done. The allergy said out loud, είναι σοβαρό behind it, χωρίς for the rest, and 112 if it turns."

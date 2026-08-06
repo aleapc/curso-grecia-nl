@@ -12,7 +12,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n02",
       "bloco": "corpo",
       "pt": "The move you will hear most is flat irony. Σιγά and καλά, said perfectly level, mean the reverse of the words."
@@ -37,7 +37,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n03",
       "pt": "Listen for the flatness, not the word. Real enthusiasm has a lift on it; the level version is the joke."
     },
@@ -53,7 +53,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n04",
       "bloco": "capsula",
       "pt": "Second: the tease. It sounds much harder than it is meant, and it comes with its own closing signal."
@@ -70,7 +70,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n05",
       "pt": "Πλάκα κάνω, σε δουλεύω, αστειεύομαι — three ways of saying that was a joke. All three mean closeness."
     },
@@ -86,7 +86,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n06",
       "pt": "The licence to tease is earned, not shared with the room. Being teased back a few days later is the sign it arrived."
     },
@@ -102,7 +102,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n07",
       "pt": "Two subjects look like small talk and are not: religion, and the old argument between one city and another."
     },
@@ -112,7 +112,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a02-p01",
       "promptPt": "The whole table has turned to you for a verdict on their own argument. Decline it, cheerfully, hands up. Speak now.",
       "audioKey": "el-a02-t01",
@@ -123,7 +123,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n08",
       "pt": "That sentence is worth learning by heart. It gets a laugh, it costs nothing, and it keeps you out of every old argument."
     },
@@ -139,13 +139,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n09",
       "pt": "That genre belongs to the people inside it. A visitor retelling one is not joining in — it lands as a verdict."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n10",
       "pt": "So what is yours? Make yourself the subject: your Greek, your reading of the alphabet, the size of your lunch."
     },
@@ -156,7 +156,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a02-p02",
       "promptPt": "Get in first about your own Greek, before anybody else has to be polite about it. Speak now.",
       "audioKey": "el-a02-t02",
@@ -181,7 +181,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a02-p03",
       "promptPt": "Confess what your first week at the bakery counter did to you, and sound pleased about it. Speak now.",
       "audioKey": "el-a02-t03",
@@ -206,7 +206,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a02-p04",
       "promptPt": "Own it instead of explaining yourself, and put the number up rather than down. Speak now.",
       "audioKey": "el-a02-t04",
@@ -217,7 +217,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n11",
       "pt": "That is the whole move. Being teased and agreeing cheerfully is how a table stops handling you carefully."
     },
@@ -227,7 +227,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a02-p05",
       "promptPt": "You got there half a beat late, but you got there. Show it without explaining it. Speak now.",
       "audioKey": "el-a02-t05",
@@ -243,7 +243,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a02-p06",
       "promptPt": "Admit out loud what the sign at the port did to you on day one. It always gets a laugh. Speak now.",
       "audioKey": "el-a02-t06",
@@ -254,7 +254,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a02-n12",
       "pt": "That one works because it is true, it is about you, and the letter that tripped you trips every visitor."
     },
@@ -265,7 +265,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a02-p07",
       "promptPt": "Everyone laughed and you have no idea why. Ask, instead of doing the polite laugh. Speak now.",
       "audioKey": "el-a02-t07",
@@ -281,7 +281,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a02-p08",
       "promptPt": "Somebody teased you and you enjoyed it. Say so and hand them the point. Speak now.",
       "audioKey": "el-a02-t08",
@@ -301,7 +301,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a02-n13",
       "bloco": "recap",
       "pt": "A02 done. Flat means inverted, πλάκα κάνω closes the tease, and the joke about yourself is the one that lands."

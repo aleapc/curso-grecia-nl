@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "sku": "EN → Grécia",
+  "sku": "NL → Grécia (Griekenland)",
   "_regras": {
     "vocabulario_molde": {
-      "termo": "the frame",
-      "porque": "Termo canônico da linha EN, idêntico ao do EN → Itália, EN → França e EN → México. Não muda entre SKUs da mesma língua-guia."
+      "termo": "de bouwsteen",
+      "porque": "Termo canônico da linha NL. É o cognato direto do «Baustein» alemão e palavra corrente em neerlandês — o aluno não precisa aprender jargão para aprender o método. A linha EN usa «the frame»; a peça é a mesma e o nome muda com o comprador."
     },
     "criterio": "Um molde entra se, e só se: (1) o buraco é uma COISA DO MUNDO que o aluno escolhe sob pressão, nunca uma categoria gramatical que ele teria que calcular; (2) o abridor é invariável, ou seja, o aluno nunca conjuga nem declina nada para usá-lo; (3) ele atravessa a jornada — nasce numa casa e volta em pelo menos duas outras partes.",
     "restricao_do_destino": "O grego tem CASO, e isso aperta o critério (2) mais do que em qualquer outro SKU do catálogo. Um abridor que force o aluno a escolher entre acusativo e genitivo não é molde: é uma regra para aplicar sob pressão. Por isso este roster é deliberadamente construído em cima de abridores que pedem ACUSATIVO — que é o caso do objeto direto e o que o aluno vai ouvir e repetir — e evita qualquer molde cujo encaixe mude de caso conforme a palavra. Onde o caso é inevitável, o encaixe entra no roster já flexionado, como bloco fixo, e o aluno aprende a peça inteira em vez de a regra.",

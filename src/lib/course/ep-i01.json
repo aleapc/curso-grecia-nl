@@ -28,7 +28,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i01-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i01-n02",
       "bloco": "corpo",
       "pt": "The useful question is about the kitchen, not the room. A room can be open long after the cooking stops."
@@ -58,7 +58,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i01-p01",
       "promptPt": "You are outside a place you like the look of, and the lights are on. Find out when the cooking starts. Speak now.",
       "audioKey": "el-i01-t01",
@@ -85,7 +85,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i01-p02",
       "promptPt": "You are at the door late and the last plates are going out. One question decides whether you sit down. Speak now.",
       "audioKey": "el-i01-t02",
@@ -98,7 +98,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i01-n03",
       "bloco": "molde",
       "pt": "The frame from part eleven still works. Tha íthela, then the thing — and here the thing is a table and a time."
@@ -111,7 +111,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "ένα τραπέζι για τις εννιά",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i01-p03",
       "promptPt": "They told you the room fills at nine. Take nine, out loud, while you are still standing there. Speak now.",
       "audioKey": "el-i01-t03",
@@ -136,7 +136,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "να κλείσω τραπέζι για απόψε",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i01-p04",
       "promptPt": "A different place, an empty afternoon, and you want tonight settled before you walk away. Speak now.",
       "audioKey": "el-i01-t04",
@@ -147,7 +147,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i01-n04",
       "pt": "Ask what time they eat, not what time you should eat. The second one gets you the visitor answer."
     },
@@ -158,7 +158,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i01-p05",
       "promptPt": "You are talking to someone who lives on this street. Ask about their day, not about your plan. Speak now.",
       "audioKey": "el-i01-t05",
@@ -176,7 +176,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i01-p06",
       "promptPt": "You arrived and the room has three people in it. Check the hour instead of walking out. Speak now.",
       "audioKey": "el-i01-t06",
@@ -187,7 +187,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i01-n05",
       "bloco": "capsula",
       "pt": "The greeting is a clock too, and between noon and five even people who live here hesitate over it."
@@ -198,7 +198,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i01-p07",
       "promptPt": "It is two in the afternoon and you are walking into a bakery. Use the greeting built for that gap. Speak now.",
       "audioKey": "el-i01-t07",
@@ -213,7 +213,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i01-p08",
       "promptPt": "The table is booked for nine and you would rather walk another hour first. Ask. Speak now.",
       "audioKey": "el-i01-t08",
@@ -226,7 +226,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i01-n06",
       "pt": "Sunday closing is old law with an old exception. Places that feed you were never inside the rule."
     },
@@ -236,7 +236,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i01-p09",
       "promptPt": "It is Saturday night and you are planning tomorrow around one particular room. Check it. Speak now.",
       "audioKey": "el-i01-t09",
@@ -269,7 +269,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i01-n07",
       "bloco": "recap",
       "pt": "I01 done. Kitchen hours, a table taken out loud, and the greeting that tells you what time it is."

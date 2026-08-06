@@ -51,7 +51,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b17-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -59,7 +59,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b17-n02",
       "bloco": "molde",
       "pt": "The pharmacy is the first door, not the last one. The counter under the green cross does a lot of the work."
@@ -72,7 +72,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "ένα φαρμακείο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p01",
       "promptPt": "You are on a street you do not know and you need the shop with the green cross. Ask a passer-by. Speak now.",
       "audioKey": "el-b17-t01",
@@ -93,14 +93,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b17-n03",
       "bloco": "corpo",
       "pt": "Two numbers. One one two reaches everything in Europe. One six six is the Greek ambulance service."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b17-n04",
       "pt": "A closed pharmacy tells you where the open one is. The duty rota is posted in the window by law."
     },
@@ -112,7 +112,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το εφημερεύον φαρμακείο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b17-p02",
       "promptPt": "It is Sunday, the shutter is down, and someone is walking past. Ask for the one that is open. Speak now.",
       "audioKey": "el-b17-t02",
@@ -129,7 +129,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "κάτι για τον πονόλαιμο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p03",
       "promptPt": "At the counter, your throat is raw and you have no idea what the box is called here. Speak now.",
       "audioKey": "el-b17-t03",
@@ -154,7 +154,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b17-p04",
       "promptPt": "The pharmacist has just asked you the first of those two questions and you are burning up. Speak now.",
       "audioKey": "el-b17-t04",
@@ -165,7 +165,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b17-n05",
       "pt": "Say the place and point at it. Πονάει εδώ is a whole sentence and it travels further than a paragraph."
     },
@@ -176,7 +176,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p05",
       "promptPt": "You do not know the word for the part of you that is hurting. Put your hand on it and say so. Speak now.",
       "audioKey": "el-b17-t05",
@@ -187,7 +187,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b17-n06",
       "pt": "Allergies get said before anything is handed over, never after. One sentence, said early, every time."
     },
@@ -197,7 +197,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b17-p06",
       "promptPt": "A box is coming across the counter towards you and there is one thing you must say first. Speak now.",
       "audioKey": "el-b17-t06",
@@ -215,7 +215,7 @@
       "voz": "target_el_f",
       "molde": "HORIS",
       "encaixe": "ασπιρίνη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p07",
       "promptPt": "You react badly to one common painkiller and you want the box that leaves it out. Speak now.",
       "audioKey": "el-b17-t07",
@@ -226,7 +226,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b17-n07",
       "bloco": "capsula",
       "pt": "The European card makes the state system free. Medicine still costs a quarter, and a euro per prescription."
@@ -237,7 +237,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b17-p08",
       "promptPt": "At the counter, before they ring anything up, tell them what you are carrying. Speak now.",
       "audioKey": "el-b17-t08",
@@ -248,7 +248,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b17-n08",
       "pt": "Outside the state network that card covers nothing at all. Ask which network you are standing in."
     },
@@ -260,7 +260,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το κέντρο υγείας",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p09",
       "promptPt": "On a small island, the pharmacist has told you to get this looked at properly. Ask where. Speak now.",
       "audioKey": "el-b17-t09",
@@ -285,7 +285,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "το νοσοκομείο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b17-p10",
       "promptPt": "In a taxi, at night, and you need the driver to take you to the right building. Speak now.",
       "audioKey": "el-b17-t10",
@@ -301,7 +301,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b17-p11",
       "promptPt": "Someone on the beach has collapsed and people are looking around for whoever will act. Speak now.",
       "audioKey": "el-b17-t11",
@@ -321,7 +321,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b17-n09",
       "bloco": "recap",
       "pt": "B17 done. The window notice, πονάει εδώ, the allergy line, and the numbers 112 and 166."

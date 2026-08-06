@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b15-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b15-n02",
       "bloco": "molde",
       "pt": "Here is the frame: πόσο κάνει, then the thing. How much is — and then whatever you happen to be holding."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "αυτό",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b15-p01",
       "promptPt": "At the market stall you have picked up a small painted bowl and there is no sticker anywhere on it. Speak now.",
       "audioKey": "el-b15-t01",
@@ -101,7 +101,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b15-n03",
       "bloco": "corpo",
       "pt": "The frame does not move. Only the noun after it changes, and you are allowed to point while you say it."
@@ -114,7 +114,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "το κιλό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p02",
       "promptPt": "Two stalls down, the peaches are in crates with a handwritten card you cannot read. Speak now.",
       "audioKey": "el-b15-t02",
@@ -125,7 +125,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b15-n04",
       "pt": "Ask before you commit, never after. A price said out loud is a price you both heard at the same moment."
     },
@@ -137,7 +137,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "μεγαλύτερο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b15-p03",
       "promptPt": "In the clothes shop, the shirt on the rail is the right colour and clearly cut for someone smaller. Speak now.",
       "audioKey": "el-b15-t03",
@@ -154,7 +154,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "το δοκιμάσω",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p04",
       "promptPt": "She has found the bigger one and is holding it out to you. There is a curtain at the back of the clothes shop. Speak now.",
       "audioKey": "el-b15-t04",
@@ -175,7 +175,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b15-n05",
       "pt": "Πόσο κάνει, not πόσο κοστίζει. The second one is correct and belongs in a classroom, not at a stall."
     },
@@ -187,7 +187,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "αυτό το καπέλο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b15-p05",
       "promptPt": "At the kiosk there is a rack of straw hats outside and the sun has been brutal since ten. Speak now.",
       "audioKey": "el-b15-t05",
@@ -205,7 +205,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "το εισιτήριο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p06",
       "promptPt": "At the ticket window the board above the glass is in Greek only and the queue behind you is short. Speak now.",
       "audioKey": "el-b15-t06",
@@ -222,7 +222,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "δύο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b15-p07",
       "promptPt": "You heard the number at the ticket window, it is fine, and there are two of you travelling. Speak now.",
       "audioKey": "el-b15-t07",
@@ -233,7 +233,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b15-n06",
       "pt": "Businesses across a long list of trades are obliged to accept a card, and to say so visibly at the door and the till."
     },
@@ -244,7 +244,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p08",
       "promptPt": "Back at the kiosk with the hat in your hand, and your notes went on the ticket window ten minutes ago. Speak now.",
       "audioKey": "el-b15-t08",
@@ -265,7 +265,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b15-n07",
       "pt": "Cash from you to a business is capped at five hundred euros. Above that, the payment has to be electronic."
     },
@@ -275,7 +275,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b15-p09",
       "promptPt": "You have been in the shop for nine seconds and someone has already crossed the floor towards you. Speak now.",
       "audioKey": "el-b15-t09",
@@ -292,7 +292,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "άλλο χρώμα",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p10",
       "promptPt": "The one that fits is a shade you would never wear, and there is a whole shelf behind her. Speak now.",
       "audioKey": "el-b15-t10",
@@ -303,7 +303,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b15-n08",
       "bloco": "capsula",
       "pt": "Έχετε and μπορώ να came from earlier parts. In a shop they stand beside the frame, unchanged, doing shop work."
@@ -316,7 +316,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "το αλλάξω",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b15-p11",
       "promptPt": "You are at the till with the shirt and no idea yet whether it will survive the hotel mirror. Ask about later. Speak now.",
       "audioKey": "el-b15-t11",
@@ -337,7 +337,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b15-n09",
       "bloco": "recap",
       "pt": "B15 done. One frame, four counters, and every price heard out loud before anything left your pocket."

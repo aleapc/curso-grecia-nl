@@ -40,7 +40,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i04-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -48,7 +48,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i04-n02",
       "bloco": "corpo",
       "pt": "You order for the table, not for yourself. Small glasses, small plates, and the night assembles itself."
@@ -68,7 +68,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p01",
       "promptPt": "The pavement tables are still empty and the room is loud. Say which side you want. Speak now.",
       "audioKey": "el-i04-t01",
@@ -81,7 +81,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i04-n03",
       "pt": "Nothing may be served and billed without being offered first. Bread and bottled water are included in that."
     },
@@ -92,7 +92,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i04-p02",
       "promptPt": "A basket lands on the table before you have ordered anything. Ask the one question that settles it. Speak now.",
       "audioKey": "el-i04-t02",
@@ -117,7 +117,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p03",
       "promptPt": "The first round of the evening, and you want the aniseed one that comes with ice and water. Speak now.",
       "audioKey": "el-i04-t03",
@@ -135,7 +135,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i04-p04",
       "promptPt": "The shelf behind the bar has bottles with no labels you recognise. Open the door to those. Speak now.",
       "audioKey": "el-i04-t04",
@@ -158,7 +158,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i04-n04",
       "pt": "The price list on the wall is in Greek, at the door and again before you order. It is an obligation, not decor."
     },
@@ -168,7 +168,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p05",
       "promptPt": "Four glasses are up, four people are looking at you, and nobody has drunk yet. Speak now.",
       "audioKey": "el-i04-t05",
@@ -179,7 +179,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i04-n05",
       "pt": "The toast is short and it is said to faces, not to the ceiling. Glasses meet, eyes meet, then you drink."
     },
@@ -190,7 +190,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i04-p06",
       "promptPt": "The second round has just been ordered and you want it on your side of the table. Speak now.",
       "audioKey": "el-i04-t06",
@@ -211,7 +211,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i04-n06",
       "bloco": "capsula",
       "pt": "One person pays for the table and the next round belongs to somebody else. It gets remembered, not settled."
@@ -223,7 +223,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p07",
       "promptPt": "Your glass is empty, the plates are still half full, and the table is nowhere near going home. Speak now.",
       "audioKey": "el-i04-t07",
@@ -241,7 +241,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i04-p08",
       "promptPt": "Six things came to the table over two hours and you want one number for the lot. Speak now.",
       "audioKey": "el-i04-t08",
@@ -254,7 +254,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i04-n07",
       "pt": "Tips are real here and legally recognised. No percentage is standard, so rounding up is a complete answer."
     },
@@ -264,7 +264,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p09",
       "promptPt": "The bill is on a saucer in front of you and there are eleven euros in your pocket. Speak now.",
       "audioKey": "el-i04-t09",
@@ -285,7 +285,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i04-n08",
       "pt": "Leaving is announced, not performed. You say you are going, you say goodnight, and then you actually go."
     },
@@ -296,7 +296,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i04-p10",
       "promptPt": "It is one in the morning, the table is staying, and you have a ferry at seven. Stand up and say it. Speak now.",
       "audioKey": "el-i04-t10",
@@ -312,7 +312,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i04-p11",
       "promptPt": "The table is already planning the next night while you are still standing up. Leave the door open. Speak now.",
       "audioKey": "el-i04-t11",
@@ -333,7 +333,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i04-n09",
       "bloco": "recap",
       "pt": "I04 done. A table outside, a local glass, one bill, and a goodnight that keeps the table open for you."

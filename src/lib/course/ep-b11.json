@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b11-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b11-n02",
       "bloco": "molde",
       "pt": "The frame is θα ήθελα, then the thing. Two words that turn an instruction into a request."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "ένα τραπέζι για δύο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b11-p01",
       "promptPt": "You and one other are standing at the edge of the taverna terrace and someone finally catches your eye. Speak now.",
       "audioKey": "el-b11-t01",
@@ -101,7 +101,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b11-n03",
       "bloco": "corpo",
       "pt": "Ταβέρνα, εστιατόριο, ουζερί, ψησταριά. Those are habits of trade, not legal categories."
@@ -114,7 +114,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "τραπέζι έξω",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b11-p02",
       "promptPt": "The inside room is full and you can hear chairs on the terrace that you cannot see from the door. Speak now.",
       "audioKey": "el-b11-t02",
@@ -131,7 +131,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "τον κατάλογο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b11-p03",
       "promptPt": "You are seated, nothing has been put in front of you, and the waiter is about to pass your table. Speak now.",
       "audioKey": "el-b11-t03",
@@ -142,7 +142,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b11-n04",
       "pt": "The price list has to be posted in Greek, at the door and before you order, tax included."
     },
@@ -152,7 +152,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b11-p04",
       "promptPt": "You have made up your mind and the waiter is two tables away, glancing over. Speak now.",
       "audioKey": "el-b11-t04",
@@ -169,7 +169,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "μια μπύρα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b11-p05",
       "promptPt": "First round at the ouzeri, and everything on offer is written on the wall behind the counter. Speak now.",
       "audioKey": "el-b11-t05",
@@ -186,7 +186,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "ένα μπουκάλι νερό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b11-p06",
       "promptPt": "The terrace still holds the heat of the afternoon and there is no jug anywhere on the table. Speak now.",
       "audioKey": "el-b11-t06",
@@ -207,7 +207,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b11-n05",
       "bloco": "capsula",
       "pt": "Nothing may be served and charged without your consent — bread and bottled water included."
@@ -221,7 +221,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "μεζέδες",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b11-p07",
       "promptPt": "The board lists big plates only, and what you want is several small ones for the middle of the table. Speak now.",
       "audioKey": "el-b11-t07",
@@ -242,7 +242,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b11-n06",
       "pt": "Έχετε asks what this counter has. Θα ήθελα says what you would like. One table, two openings."
     },
@@ -255,7 +255,7 @@
       "voz": "target_el_f",
       "molde": "THA-ITHELA",
       "encaixe": "έναν καφέ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b11-p08",
       "promptPt": "Morning, the café counter, and the two people behind you are moving faster than you are. Speak now.",
       "audioKey": "el-b11-t08",
@@ -271,7 +271,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b11-p09",
       "promptPt": "A basket lands on the taverna table without anyone asking you anything about it. Speak now.",
       "audioKey": "el-b11-t09",
@@ -292,7 +292,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b11-n07",
       "bloco": "recap",
       "pt": "B11 done. Θα ήθελα plus the thing, and the first round arrives without a word of English."

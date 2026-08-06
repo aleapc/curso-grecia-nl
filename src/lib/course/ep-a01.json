@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -46,7 +46,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n02",
       "bloco": "corpo",
       "pt": "Rule one, and it is the one that saves you: ναι means yes. It comes out of a real mouth sounding like nah."
@@ -63,7 +63,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n03",
       "pt": "Όχι is no, and it is longer and heavier than ναι. If the word was short and light, it was the yes."
     },
@@ -79,7 +79,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n04",
       "pt": "Rule two: εντάξει carries the traffic. Fine, agreed, no need, we are done — one word doing four jobs."
     },
@@ -95,7 +95,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n05",
       "bloco": "capsula",
       "pt": "Λοιπόν opens the decision. When you hear it, the useful half of the conversation is about to arrive."
@@ -112,7 +112,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n06",
       "pt": "Ρε goes between people who know each other, constantly. Hear it as warmth, and keep it out of your own mouth."
     },
@@ -128,7 +128,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n07",
       "pt": "Έλα literally means come. It is also hello on the phone, and also go on, out with it. Context does the work."
     },
@@ -144,7 +144,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n08",
       "pt": "Ορίστε does two opposite jobs: here you are, and sorry, say that again. The rise at the end tells you which."
     },
@@ -160,7 +160,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n09",
       "pt": "Prices come out in one block. Watch the little screen instead of doing arithmetic in a second language."
     },
@@ -176,19 +176,19 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n10",
       "pt": "Πάμε means we are going, right now. If it is aimed at your table, put your glass down and stand up."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n11",
       "pt": "About your own ear: reading the romanised sign aloud does not produce Greek. That spelling is for matching names."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a01-n12",
       "pt": "English rates high here on self-selected commercial indexes, and speaking is the weakest skill. Expect it unevenly."
     },
@@ -200,7 +200,7 @@
       "voz": "ear_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν κατάλαβα",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a01-p01",
       "promptPt": "You caught nothing at all in that sentence. Say so once, cleanly, without apologising twice. Speak now.",
       "audioKey": "el-a01-t01",
@@ -215,7 +215,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a01-p02",
       "promptPt": "You need the whole thing again at the same speed, because you only lost the beginning. Speak now.",
       "audioKey": "el-a01-t02",
@@ -230,7 +230,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a01-p03",
       "promptPt": "The second pass came at exactly the same speed as the first. Ask for the one thing that would fix it. Speak now.",
       "audioKey": "el-a01-t03",
@@ -245,7 +245,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a01-p04",
       "promptPt": "One word in the middle did all the work and it went past you. Point at it and ask. Speak now.",
       "audioKey": "el-a01-t04",
@@ -260,7 +260,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a01-p05",
       "promptPt": "It is a street name in an alphabet you are still decoding, and a third hearing will not help. Speak now.",
       "audioKey": "el-a01-t05",
@@ -276,7 +276,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a01-p06",
       "promptPt": "You got the shape of it and lost the detail. Say exactly that, so the useful half comes back. Speak now.",
       "audioKey": "el-a01-t06",
@@ -291,7 +291,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a01-p07",
       "promptPt": "The counter is technical, the queue behind you is six deep, and you need this to be quick. Speak now.",
       "audioKey": "el-a01-t07",
@@ -306,7 +306,7 @@
       ],
       "tipo": "responde",
       "voz": "ear_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a01-p08",
       "promptPt": "The table just turned from you to each other and the speed tripled. Say what you noticed, cheerfully. Speak now.",
       "audioKey": "el-a01-t08",
@@ -326,7 +326,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a01-n13",
       "bloco": "recap",
       "pt": "A01 done. Ναι is yes, εντάξει is everywhere, λοιπόν starts the decision, and a third of the room is plenty."

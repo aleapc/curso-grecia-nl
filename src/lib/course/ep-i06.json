@@ -39,7 +39,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i06-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -57,7 +57,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i06-n02",
       "bloco": "corpo",
       "pt": "Greek pulls the stress backwards when a thing is finished. Learn each one as its own word, not as a rule."
@@ -68,7 +68,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p01",
       "promptPt": "He asked about the day before, and you spent that morning up on the rock above the city. Speak now.",
       "audioKey": "el-i06-t01",
@@ -92,7 +92,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p02",
       "promptPt": "Lunch was at the last table on the quay, and the boats were tied up two metres away. Speak now.",
       "audioKey": "el-i06-t02",
@@ -103,7 +103,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i06-n03",
       "pt": "One word covers it was, they were and it was wonderful. It never changes, whatever you point it at."
     },
@@ -113,7 +113,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p03",
       "promptPt": "He is waiting for the verdict on the whole day, and it deserves more than a nod. Speak now.",
       "audioKey": "el-i06-t03",
@@ -134,7 +134,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i06-n04",
       "pt": "Liking runs backwards here: the thing pleases you. Past and present differ by a vowel, so listen for it."
     },
@@ -144,7 +144,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p04",
       "promptPt": "She asked about the place you have just described, and it is finished, done, yesterday. Speak now.",
       "audioKey": "el-i06-t04",
@@ -161,7 +161,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p05",
       "promptPt": "You stayed on the wall until the light went orange and then pink. Tell her what you watched. Speak now.",
       "audioKey": "el-i06-t05",
@@ -172,7 +172,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i06-n05",
       "pt": "Three sentences is a story. The place, what you ate, and how it was — in that order, and then stop."
     },
@@ -183,7 +183,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p06",
       "promptPt": "Last night somebody put a glass of the warm honey one in front of you and you had never met it. Speak now.",
       "audioKey": "el-i06-t06",
@@ -194,7 +194,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i06-n06",
       "pt": "Name the actual place. A named village earns you a recommendation; a nice day out earns you a polite nod."
     },
@@ -204,7 +204,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p07",
       "promptPt": "You spent three days on one island before this one, and it has a name worth saying. Speak now.",
       "audioKey": "el-i06-t07",
@@ -229,7 +229,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p08",
       "promptPt": "You came over on the boat, six hours, on the deck at the back. Say how you got here. Speak now.",
       "audioKey": "el-i06-t08",
@@ -240,7 +240,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i06-n07",
       "pt": "July is the peak month for arrivals, and spring and winter are growing fastest. When you came is part of it."
     },
@@ -250,7 +250,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p09",
       "promptPt": "The water was warm and nobody else was on that beach at eight in the morning. Speak now.",
       "audioKey": "el-i06-t09",
@@ -261,7 +261,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i06-n08",
       "pt": "Ferry tickets carry your name by law. You cannot buy one for someone else or pass a spare one on."
     },
@@ -282,7 +282,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p10",
       "promptPt": "You took a wrong turn in the old town for half an hour and came out somewhere better. Speak now.",
       "audioKey": "el-i06-t10",
@@ -297,7 +297,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i06-p11",
       "promptPt": "You walked the whole town twice and your legs know it. Say how the day went, in the past. Speak now.",
       "audioKey": "el-i06-t11",
@@ -308,7 +308,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i06-n09",
       "bloco": "capsula",
       "pt": "Finish on the future. One short sentence about coming back is what turns the story into a promise."
@@ -320,7 +320,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i06-p12",
       "promptPt": "The story is told, everyone is smiling, and you fly on Sunday. Close it with next time. Speak now.",
       "audioKey": "el-i06-t12",
@@ -340,7 +340,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i06-n10",
       "bloco": "recap",
       "pt": "I06 done. Ten finished words, one it was, and a day of yours told out loud in three sentences."

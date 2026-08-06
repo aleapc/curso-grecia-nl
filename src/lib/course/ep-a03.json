@@ -53,7 +53,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -61,7 +61,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n02",
       "bloco": "corpo",
       "pt": "Ask where someone is from and the answer often arrives as a village, an island or a neighbourhood."
@@ -72,7 +72,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a03-p01",
       "promptPt": "The woman refilling your glass has talked to you twice and you still know nothing about her. Open the obvious door. Speak now.",
       "audioKey": "el-a03-t01",
@@ -93,7 +93,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n03",
       "pt": "So the useful second question is which part. It costs three words and it opens twenty minutes."
     },
@@ -103,7 +103,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a03-p02",
       "promptPt": "She named a region you have never heard of and stopped there, waiting. Narrow it down. Speak now.",
       "audioKey": "el-a03-t02",
@@ -118,7 +118,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a03-p03",
       "promptPt": "You are standing in a square in thirty-four degrees, surrounded by other visitors, and you want to know what this place is like when none of you are here. Speak now.",
       "audioKey": "el-a03-t03",
@@ -139,14 +139,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n04",
       "bloco": "capsula",
       "pt": "The table does the rest. UNESCO's Mediterranean Diet listing calls eating together the foundation of identity."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n05",
       "pt": "That is about the shared meal, not about your plate. In practice small dishes get ordered for the table."
     },
@@ -157,7 +157,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a03-p04",
       "promptPt": "Four people are waiting for you to pick something off a menu you cannot read, and one of them eats here every week. Hand it over. Speak now.",
       "audioKey": "el-a03-t04",
@@ -182,7 +182,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a03-p05",
       "promptPt": "The waiter is looking at you as though you might want a plate of your own. Make it clear that is not the plan. Speak now.",
       "audioKey": "el-a03-t05",
@@ -193,7 +193,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n06",
       "pt": "The name over the door is a promise, not a licence class. In law a taverna and a restaurant are one category."
     },
@@ -214,7 +214,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a03-p06",
       "promptPt": "You have eaten the same four things in three towns and you would like the one thing this town keeps to itself. Speak now.",
       "audioKey": "el-a03-t06",
@@ -225,19 +225,19 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n07",
       "pt": "Closeness arrives faster than you expect. Questions come early, and the distance between chairs is short."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n08",
       "pt": "That is documented, not folklore. Research on politeness puts Greek on involvement and English on distance."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n09",
       "pt": "Which means both readings are wrong. Warm is not intrusive here, and reserved is not cold there."
     },
@@ -253,7 +253,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n10",
       "pt": "Antiquity is yours to enjoy and theirs to live beside. Lead with now, and the past turns up on its own."
     },
@@ -273,7 +273,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a03-p07",
       "promptPt": "She has stopped, checking whether you are still interested. You are. Tell her to keep going. Speak now.",
       "audioKey": "el-a03-t07",
@@ -284,7 +284,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a03-n11",
       "pt": "Praise one thing you actually saw. A named place beats a compliment about the country every time."
     },
@@ -294,7 +294,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a03-p08",
       "promptPt": "You spent yesterday afternoon in the village he grew up in, and he has just mentioned it. Say what it did for you, and name it as his. Speak now.",
       "audioKey": "el-a03-t08",
@@ -324,7 +324,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a03-n12",
       "bloco": "recap",
       "pt": "A03 done. Ask which part, share the plate, praise one place — and let them tell you what is theirs."

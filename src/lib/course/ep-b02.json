@@ -38,7 +38,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b02-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -59,7 +59,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b02-p01",
       "promptPt": "You are crossing the doorway of a small shop with the owner behind the counter. Speak now.",
       "audioKey": "el-b02-t01",
@@ -81,14 +81,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b02-n02",
       "bloco": "corpo",
       "pt": "Research on politeness puts Greek and English on opposite defaults: closeness on one side, distance on the other."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b02-n03",
       "pt": "So the greeting is not decoration here. It is the move that says you are entering, and it costs one word."
     },
@@ -98,7 +98,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b02-p02",
       "promptPt": "The sun has gone and the lights are on along the street. You are walking into a taverna. Speak now.",
       "audioKey": "el-b02-t02",
@@ -120,7 +120,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b02-n04",
       "pt": "There is no rule fixing the hour the morning word turns into the evening one. Locals hesitate in that band too."
     },
@@ -130,7 +130,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b02-p03",
       "promptPt": "He has just put the change into your hand and closed the till. Speak now.",
       "audioKey": "el-b02-t03",
@@ -154,7 +154,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b02-p04",
       "promptPt": "Someone at the counter steps back and opens a hand towards the window to let you go first. Say the one word. Speak now.",
       "audioKey": "el-b02-t04",
@@ -169,7 +169,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b02-p05",
       "promptPt": "He tilts the carafe towards your glass for a second one, and you want it. Two words. Speak now.",
       "audioKey": "el-b02-t05",
@@ -184,7 +184,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b02-p06",
       "promptPt": "You are browsing a rack of linen and someone comes over to help. Turn it down without closing the door. Speak now.",
       "audioKey": "el-b02-t06",
@@ -195,14 +195,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b02-n05",
       "bloco": "capsula",
       "pt": "Greece sits high in the commercial English indices, and speaking is its lowest score. Those samples are self-selected."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b02-n06",
       "pt": "Read that as a direction, never as a headcount. Two Greek words at the door are worth more than a plan built on English."
     },
@@ -212,7 +212,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b02-p07",
       "promptPt": "The aisle is narrow, two people are talking across it, and your stop is the door behind them. Speak now.",
       "audioKey": "el-b02-t07",
@@ -236,7 +236,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b02-p08",
       "promptPt": "It is nearly one in the morning and you are leaving the table for bed. Speak now.",
       "audioKey": "el-b02-t08",
@@ -252,7 +252,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b02-p09",
       "promptPt": "Bag in hand, one foot out of the shop, and the owner is still watching from the counter. Close the visit. Speak now.",
       "audioKey": "el-b02-t09",
@@ -281,7 +281,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b02-n07",
       "bloco": "recap",
       "pt": "B02 done. Γεια σας in and out, καλημέρα and καλησπέρα, ευχαριστώ, παρακαλώ, ναι and όχι, συγγνώμη, καληνύχτα."

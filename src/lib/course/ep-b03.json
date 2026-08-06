@@ -24,7 +24,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b03-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -32,14 +32,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b03-n02",
       "bloco": "molde",
       "pt": "Here is the frame: Συγγνώμη, then the thing you need. Same opener for the baker, the clerk and the person in the doorway."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b03-n03",
       "pt": "You drilled the word as a sound in part one. Sing, no, me, run together. Now it becomes the frame that opens everything."
     },
@@ -60,7 +60,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "δεν κατάλαβα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b03-p01",
       "promptPt": "At the bakery counter she has just said the price and it went straight past you. Speak now.",
       "audioKey": "el-b03-t01",
@@ -82,7 +82,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b03-n04",
       "bloco": "corpo",
       "pt": "The frame holds and only the ending changes: ask for it again, ask for it slower, ask for it written down."
@@ -95,7 +95,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "άλλη μια φορά",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b03-p02",
       "promptPt": "Same bakery counter, and one more go at it would settle everything. Speak now.",
       "audioKey": "el-b03-t02",
@@ -112,7 +112,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "πιο αργά",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b03-p03",
       "promptPt": "At the ticket window the second try came back louder, at exactly the same speed. Ask for the other thing. Speak now.",
       "audioKey": "el-b03-t03",
@@ -129,7 +129,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "μπορείτε να το γράψετε",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b03-p04",
       "promptPt": "Still at the ticket window, and it is a platform number you cannot afford to guess. Speak now.",
       "audioKey": "el-b03-t04",
@@ -140,7 +140,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b03-n05",
       "pt": "Numbers and platforms are the ones to get on paper. Three repeats will not beat one line of handwriting."
     },
@@ -152,7 +152,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "περνάω",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b03-p05",
       "promptPt": "You are on the crowded bus, packed to the doors, and your stop is next. Speak now.",
       "audioKey": "el-b03-t05",
@@ -172,7 +172,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b03-n06",
       "bloco": "capsula",
       "pt": "Two more endings for the frame, both used on the street: whether the person has English, and what a thing is called."
@@ -185,7 +185,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "μιλάτε αγγλικά",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b03-p06",
       "promptPt": "On the pavement outside, what you need next is longer than your Greek. Open properly first. Speak now.",
       "audioKey": "el-b03-t06",
@@ -213,7 +213,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "πώς το λένε αυτό",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b03-p07",
       "promptPt": "Back at the bakery counter, holding up the thing you want to be able to name. Speak now.",
       "audioKey": "el-b03-t07",
@@ -230,7 +230,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "μπορείτε να μου δείξετε",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b03-p08",
       "promptPt": "On the pavement outside, the directions came with three street names and one wave of the hand. Speak now.",
       "audioKey": "el-b03-t08",
@@ -241,7 +241,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b03-n07",
       "pt": "Say the opener, then stop for half a beat. The pause is what turns your sentence into a request, not an interruption."
     },
@@ -251,7 +251,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b03-p09",
       "promptPt": "They slowed down, said it again and pointed you round the corner. Close it warmly. Speak now.",
       "audioKey": "el-b03-t09",
@@ -272,7 +272,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b03-n08",
       "bloco": "recap",
       "pt": "B03 done. Συγγνώμη plus the need covers the repeat, the slow version, the written version and the way through."

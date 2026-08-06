@@ -54,7 +54,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i03-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -62,7 +62,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i03-n02",
       "bloco": "corpo",
       "pt": "The law files them all together. What the four words carry is an expectation about the menu and the room."
@@ -74,7 +74,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i03-p01",
       "promptPt": "The laminated menu has forty things on it and you want the short list instead. Speak now.",
       "audioKey": "el-i03-t01",
@@ -96,7 +96,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i03-n03",
       "bloco": "molde",
       "pt": "The frame from part six comes back. Éhete, then the thing — and here the thing is what is cooking today."
@@ -109,7 +109,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "μαγειρευτά",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p02",
       "promptPt": "You want the tray dishes that were made this morning, not something off the grill. Ask for them by name. Speak now.",
       "audioKey": "el-i03-t02",
@@ -136,7 +136,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i03-p03",
       "promptPt": "He named two things and you recognised neither. Get one of them explained instead of retreating to the menu. Speak now.",
       "audioKey": "el-i03-t03",
@@ -155,7 +155,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "δω",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p04",
       "promptPt": "There is a glass counter by the till with today's trays in it. Ask before you lean over. Speak now.",
       "audioKey": "el-i03-t04",
@@ -167,7 +167,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i03-n04",
       "pt": "Mezédes are small plates that arrive for the table. Ordering a few of them is ordering for everybody at once."
     },
@@ -178,7 +178,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i03-p05",
       "promptPt": "Three of you, nobody sure what they want, and one decision would solve it. Speak now.",
       "audioKey": "el-i03-t05",
@@ -195,7 +195,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p06",
       "promptPt": "He has been doing this for thirty years and you have been reading a menu for two minutes. Hand it over. Speak now.",
       "audioKey": "el-i03-t06",
@@ -207,7 +207,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i03-n05",
       "bloco": "capsula",
       "tom": "protege",
@@ -225,7 +225,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i03-n06",
       "pt": "Bread and bottled water are covered too. If either arrives unasked, you can say no without any fuss."
     },
@@ -235,7 +235,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i03-p07",
       "promptPt": "A basket lands on the table and you did not ask for it and do not want it. One calm sentence. Speak now.",
       "audioKey": "el-i03-t07",
@@ -254,7 +254,7 @@
       "tom": "ganha",
       "molde": "EXETE",
       "encaixe": "κάτι χωρίς κρέας",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p08",
       "promptPt": "Someone at your table does not eat meat and the day's list was read out loud, not printed. Speak now.",
       "audioKey": "el-i03-t08",
@@ -271,7 +271,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "τοπικό κρασί",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i03-p09",
       "promptPt": "The wine list is three imported labels and there is a barrel behind the counter. Speak now.",
       "audioKey": "el-i03-t09",
@@ -298,7 +298,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p10",
       "promptPt": "You have decided, it is one of the two he named, and you can point at the tray. Speak now.",
       "audioKey": "el-i03-t10",
@@ -315,7 +315,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i03-p11",
       "promptPt": "The dish they brought was the best thing you have eaten here. Tell them, and ask what else they do like that. Speak now.",
       "audioKey": "el-i03-t11",
@@ -327,7 +327,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i03-n07",
       "pt": "Mporó na do is a sentence, not a licence. It asks to look at what is out, not to walk into a kitchen."
     },
@@ -343,7 +343,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i03-n08",
       "bloco": "recap",
       "pt": "I03 done. What is cooking today, magireftá by name, and the bread you agree to before it is charged."

@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b10-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b10-n02",
       "bloco": "molde",
       "pt": "The frame is ψάχνω, then the thing. It says what you are after long before you can read the word for it."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "την έξοδο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b10-p01",
       "promptPt": "The hall has four doors and the only word above them is in letters you are still matching. Say what you are after. Speak now.",
       "audioKey": "el-b10-t01",
@@ -101,7 +101,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b10-n03",
       "bloco": "corpo",
       "pt": "Five letters lie to your eye. Ρ is R, Η is I, Χ is CH, Β is V, and Υ comes out as ee."
@@ -115,7 +115,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "το πλοίο για τη Ρόδο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b10-p02",
       "promptPt": "At the ferry gate the board reads ΡΟΔΟΣ and your printed ticket reads RODOS. Tell the agent which sailing you want. Speak now.",
       "audioKey": "el-b10-t02",
@@ -136,7 +136,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b10-n04",
       "pt": "The British board on geographical names calls that Latin line a less reliable guide to pronunciation. Read it, don't say it."
     },
@@ -148,7 +148,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "ένα ΑΤΜ",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b10-p03",
       "promptPt": "Your wallet is down to coins and there is a machine somewhere off this square. Ask at the kiosk. Speak now.",
       "audioKey": "el-b10-t03",
@@ -165,7 +165,7 @@
       "voz": "target_el_f",
       "molde": "POU-INE",
       "encaixe": "η στάση",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b10-p04",
       "promptPt": "You have the bus number written on your hand and no idea which side of the road it is picked up from. Ask a passer-by. Speak now.",
       "audioKey": "el-b10-t04",
@@ -176,7 +176,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b10-n05",
       "pt": "ΑΝΔΡΩΝ is men, ΓΥΝΑΙΚΩΝ is women. They end the same way, so read the front of the word."
     },
@@ -188,7 +188,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "την τουαλέτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b10-p05",
       "promptPt": "Two unmarked doors at the back of the café and no picture on either one. Speak now.",
       "audioKey": "el-b10-t05",
@@ -205,7 +205,7 @@
       "voz": "target_el_f",
       "molde": "SIGNOMI",
       "encaixe": "μπορείτε να το γράψετε",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b10-p06",
       "promptPt": "They have said the street name twice and it still has not landed in your ear. Ask for it on paper. Speak now.",
       "audioKey": "el-b10-t06",
@@ -226,7 +226,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b10-n06",
       "bloco": "capsula",
       "pt": "One standard, two types, and no rule on which. A town can be spelled three ways across map, ticket and sign."
@@ -239,7 +239,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "το φαρμακείο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b10-p07",
       "promptPt": "The green cross you walked past yesterday is not on this street. Say what you are after at the kiosk in the square. Speak now.",
       "audioKey": "el-b10-t07",
@@ -256,7 +256,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "περάσω από εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b10-p08",
       "promptPt": "A rope and a small printed card block half the walkway, and someone in a uniform is standing beside it. Speak now.",
       "audioKey": "el-b10-t08",
@@ -273,7 +273,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "τα εισιτήρια",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b10-p09",
       "promptPt": "Three of them in a row, and the word above the station window is still only a shape to you. Speak now.",
       "audioKey": "el-b10-t09",
@@ -294,7 +294,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b10-n07",
       "bloco": "recap",
       "pt": "B10 done. Ψάχνω plus the thing, five letters that lie, and a sign you now match by shape."

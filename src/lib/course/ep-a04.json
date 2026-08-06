@@ -43,7 +43,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -51,14 +51,14 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n02",
       "bloco": "corpo",
       "pt": "The first is a name. Macedonia is a region of Greece, with Thessaloniki as its capital."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n03",
       "pt": "It is also, since 2019, part of a neighbouring country's constitutional name, agreed and in force."
     },
@@ -74,7 +74,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n04",
       "bloco": "capsula",
       "pt": "So I'm going to Macedonia can mean two opposite things. Name the city instead and it stops being a puzzle."
@@ -86,7 +86,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a04-p01",
       "promptPt": "You are telling the man at the ticket desk where the rest of your week goes. Give him the city, not the region. Speak now.",
       "audioKey": "el-a04-t01",
@@ -101,7 +101,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a04-p02",
       "promptPt": "You are about to repeat a name you have only ever read in English, and you would rather borrow theirs first. Speak now.",
       "audioKey": "el-a04-t02",
@@ -112,25 +112,25 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n05",
       "pt": "The second is the sculptures. What is documented is the law and the state of the talks."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n06",
       "pt": "A 1963 Act limits what the British Museum may give away, so a return would need new legislation."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n07",
       "pt": "In November 2025 the talks were called an impasse: a loan was offered, and a loan is not what is asked for."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n08",
       "pt": "Whether that should change is a position, and the term you pick already announces one before you argue."
     },
@@ -150,7 +150,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a04-p03",
       "promptPt": "The table is waiting, still smiling. Answer with your own morning at the museum rather than with a position. Speak now.",
       "audioKey": "el-a04-t03",
@@ -161,7 +161,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n09",
       "pt": "Then there are the ordinary ones — city against city, mainland against islands. Same rule, lighter stakes."
     },
@@ -177,7 +177,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n10",
       "pt": "The move is always the same. Ask how it looks from here, and never hand down a verdict of your own."
     },
@@ -187,7 +187,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a04-p04",
       "promptPt": "He has given you a strong opinion and stopped. Put the floor back in his hands instead of matching him. Speak now.",
       "audioKey": "el-a04-t04",
@@ -202,7 +202,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a04-p05",
       "promptPt": "The whole table has turned to you for a ruling on something they have argued about since before you were born. Say honestly where you stand on it. Speak now.",
       "audioKey": "el-a04-t05",
@@ -213,7 +213,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a04-n11",
       "pt": "Saying you do not know enough is not a dodge. After three weeks in a country it is simply accurate."
     },
@@ -223,7 +223,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a04-p06",
       "promptPt": "They press you anyway, cheerfully, glasses in hand. Choose the chair you actually want at this table. Speak now.",
       "audioKey": "el-a04-t06",
@@ -248,7 +248,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a04-p07",
       "promptPt": "You walked into something without meaning to and the temperature moved. Name that plainly and let it pass. Speak now.",
       "audioKey": "el-a04-t07",
@@ -263,7 +263,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a04-p08",
       "promptPt": "Move the conversation from the national argument, where you have no standing, to the town outside the window. Speak now.",
       "audioKey": "el-a04-t08",
@@ -279,7 +279,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a04-p09",
       "promptPt": "Turn the whole thing into something useful to you: the four people arguing all know the coast better than any map. Speak now.",
       "audioKey": "el-a04-t09",
@@ -299,7 +299,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a04-n12",
       "bloco": "recap",
       "pt": "A04 done. Name the city, use the descriptive term, ask the question and leave the ruling alone."

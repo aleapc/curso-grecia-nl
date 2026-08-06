@@ -65,7 +65,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -73,7 +73,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a06-n02",
       "bloco": "corpo",
       "pt": "Easter here is reckoned on the Julian calendar. Thirteen days of drift, so it usually lands away from yours."
@@ -90,7 +90,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n03",
       "pt": "The two coincided in 2025, on the twentieth of April. The next time they meet is 2028."
     },
@@ -100,7 +100,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a06-p01",
       "promptPt": "A red date lands the next morning and this is the shop you need. Check with the counter before you plan it. Speak now.",
       "audioKey": "el-a06-t01",
@@ -121,7 +121,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a06-n04",
       "pt": "Nine dates are compulsory holidays by name in law. Good Friday, surprisingly to most visitors, is not one."
     },
@@ -131,7 +131,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a06-p02",
       "promptPt": "The street feels quieter than a Wednesday should, and you want to know what the date is doing. Speak now.",
       "audioKey": "el-a06-t02",
@@ -152,7 +152,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n05",
       "bloco": "capsula",
       "pt": "Easter Monday is on the list, and it is the one that stops a whole town. Buy your food the Saturday before."
@@ -163,7 +163,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a06-p03",
       "promptPt": "The shutter is down and there is a handwritten card taped to the glass that you cannot read. Ask a neighbour. Speak now.",
       "audioKey": "el-a06-t03",
@@ -174,7 +174,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a06-n06",
       "pt": "Then the second calendar: the season. July carries almost seventeen percent of the year's arrivals; January, two."
     },
@@ -187,7 +187,7 @@
       "voz": "target_el_f",
       "molde": "POSO-KANI",
       "encaixe": "το δωμάτιο τον Ιανουάριο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a06-p04",
       "promptPt": "You are on the phone in November, thinking about a very quiet week two months out. Ask about the deep off-season. Speak now.",
       "audioKey": "el-a06-t04",
@@ -208,7 +208,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n07",
       "pt": "And the summer is shrinking. Its share fell from fifty-six percent to fifty, while spring and winter grew."
     },
@@ -220,7 +220,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "κλείσω για τον Μάιο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a06-p05",
       "promptPt": "You liked this place and want the shoulder month instead of the crowded one. Put the request to the owner. Speak now.",
       "audioKey": "el-a06-t05",
@@ -231,7 +231,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-a06-n08",
       "pt": "The fifteenth of August is a national holiday, and the largest pilgrimage of the year is on the island of Tinos."
     },
@@ -243,7 +243,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "δωμάτιο στις δεκαπέντε Αυγούστου",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a06-p06",
       "promptPt": "You are planning around the biggest date of the Greek summer and you have left it late. Ask the guesthouse. Speak now.",
       "audioKey": "el-a06-t06",
@@ -264,7 +264,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n09",
       "pt": "Sunday closing dates from 1909 and always exempted the visitor's side: tavernas, cafés, shops selling to travellers."
     },
@@ -277,7 +277,7 @@
       "voz": "target_el_f",
       "molde": "TI-ORA",
       "encaixe": "κλείνετε σήμερα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a06-p07",
       "promptPt": "Late afternoon on a holiday weekend, one errand left, and you would rather not cross town for nothing. Speak now.",
       "audioKey": "el-a06-t07",
@@ -294,7 +294,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "ένα φαρμακείο ανοιχτό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-a06-p08",
       "promptPt": "Three shutters down in a row on the same pavement, and you still need the counter behind one of them. Ask a passer-by. Speak now.",
       "audioKey": "el-a06-t08",
@@ -309,7 +309,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-a06-p09",
       "promptPt": "A stranger just saved you a pointless walk across town on a holiday. Close it warmly. Speak now.",
       "audioKey": "el-a06-t09",
@@ -330,7 +330,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-a06-n10",
       "bloco": "recap",
       "pt": "A06 done. Thirteen days of drift, nine named dates, July against January, and one question at the door."

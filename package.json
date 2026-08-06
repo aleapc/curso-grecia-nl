@@ -1,5 +1,5 @@
 {
-  "name": "curso-grecia-en",
+  "name": "curso-grecia-nl",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -32,12 +32,12 @@
     "casca": "node scripts/valida-casca.mjs"
   },
   "_prebuild": {
-    "_": "OS PORTÕES, E EM QUE MODO CADA UM RODA. npm executa `prebuild` antes de `build`; qualquer um dos três saindo != 0 impede a build. Até 27/07/2026 não havia prebuild nenhum: os dois validadores existiam e ninguém os executava (achado 3 da auditoria adversarial — 'portão descrito e não escrito é pior que portão nenhum, porque desliga a conferência humana sem ligar a automática').",
-    "estrutura": "MODO AVISO. Slot de módulo travado ainda vazio é aviso, não erro — PRODUTO.md §3.2, regra 10. Divergência de contrato (slot inexistente, slot preenchido duas vezes, nivel divergente, dissolveEm para slot inventado, B13 ausente) continua sendo erro duro nos dois modos. Medido em 27/07: 0 erros, 5 avisos.",
-    "audio:check": "MODO ESTRITO, e sempre foi. Manifesto × mp3 em disco × texto atual do curso. Medido em 27/07: passa, 938 clipes.",
-    "tom": "MODO ESTRITO, e é O QUE ESTÁ VERMELHO HOJE: 282 erros de G1/G3/G4 sobre os 24 episódios legados — moldura defensiva acima do teto, média de `responde` abaixo do piso e, sobretudo, narração a 578 chars/clipe contra o teto de 120. Nenhum é regressão: é a dívida que as Ondas 1 a 5 existem para pagar, e ela cai parte por parte conforme cada slot é reescrito. Quem precisar de build verde antes disso NÃO afrouxa o portão — reescreve a parte, ou roda `npm run build --ignore-scripts` uma vez, deliberadamente e com o número na mão.",
-    "quando_o_estrito_liga": "AO FIM DA ONDA 3 (GRADE-36-ESPANHA §7), quando B14, B10 e B18 fecharem os 18 slots de ME VIRO. Nesse dia o prebuild vira `npm run estrutura:estrito && npm run audio:check && npm run tom` e este bloco é atualizado. Ligar antes deixa o build vermelho durante a obra inteira, e equipe que convive com vermelho aprende a ignorar vermelho — que é como se perde um portão para sempre.",
-    "outros_4_cursos": "curso-espanha-de, curso-espanol, curso-mandarim e curso-tailandes receberam a MESMA flag --estrito no validador de estrutura, mas continuam SEM prebuild: estão no ar e não conformam. Ligar lá é decisão separada, curso a curso, depois de medir."
+    "_": "OS PORT\u00d5ES, E EM QUE MODO CADA UM RODA. npm executa `prebuild` antes de `build`; qualquer um dos tr\u00eas saindo != 0 impede a build. At\u00e9 27/07/2026 n\u00e3o havia prebuild nenhum: os dois validadores existiam e ningu\u00e9m os executava (achado 3 da auditoria adversarial \u2014 'port\u00e3o descrito e n\u00e3o escrito \u00e9 pior que port\u00e3o nenhum, porque desliga a confer\u00eancia humana sem ligar a autom\u00e1tica').",
+    "estrutura": "MODO AVISO. Slot de m\u00f3dulo travado ainda vazio \u00e9 aviso, n\u00e3o erro \u2014 PRODUTO.md \u00a73.2, regra 10. Diverg\u00eancia de contrato (slot inexistente, slot preenchido duas vezes, nivel divergente, dissolveEm para slot inventado, B13 ausente) continua sendo erro duro nos dois modos. Medido em 27/07: 0 erros, 5 avisos.",
+    "audio:check": "MODO ESTRITO, e sempre foi. Manifesto \u00d7 mp3 em disco \u00d7 texto atual do curso. Medido em 27/07: passa, 938 clipes.",
+    "tom": "MODO ESTRITO, e \u00e9 O QUE EST\u00c1 VERMELHO HOJE: 282 erros de G1/G3/G4 sobre os 24 epis\u00f3dios legados \u2014 moldura defensiva acima do teto, m\u00e9dia de `responde` abaixo do piso e, sobretudo, narra\u00e7\u00e3o a 578 chars/clipe contra o teto de 120. Nenhum \u00e9 regress\u00e3o: \u00e9 a d\u00edvida que as Ondas 1 a 5 existem para pagar, e ela cai parte por parte conforme cada slot \u00e9 reescrito. Quem precisar de build verde antes disso N\u00c3O afrouxa o port\u00e3o \u2014 reescreve a parte, ou roda `npm run build --ignore-scripts` uma vez, deliberadamente e com o n\u00famero na m\u00e3o.",
+    "quando_o_estrito_liga": "AO FIM DA ONDA 3 (GRADE-36-ESPANHA \u00a77), quando B14, B10 e B18 fecharem os 18 slots de ME VIRO. Nesse dia o prebuild vira `npm run estrutura:estrito && npm run audio:check && npm run tom` e este bloco \u00e9 atualizado. Ligar antes deixa o build vermelho durante a obra inteira, e equipe que convive com vermelho aprende a ignorar vermelho \u2014 que \u00e9 como se perde um port\u00e3o para sempre.",
+    "outros_4_cursos": "curso-espanha-de, curso-espanol, curso-mandarim e curso-tailandes receberam a MESMA flag --estrito no validador de estrutura, mas continuam SEM prebuild: est\u00e3o no ar e n\u00e3o conformam. Ligar l\u00e1 \u00e9 decis\u00e3o separada, curso a curso, depois de medir."
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.6",

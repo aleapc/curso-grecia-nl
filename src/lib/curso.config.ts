@@ -1,30 +1,29 @@
-// A CONFIG DE CURSO — o que muda entre EN/DE/FR/IT→Espanha (e o futuro →França)
-// mora AQUI e só aqui. Componentes agnósticos de língua (busca, tradutor,
-// bolso do viajante) leem daqui; nenhum deles tem par de idioma ou moeda
-// hard-coded. Derivar um SKU novo = copiar este arquivo e trocar os valores.
+// A CONFIG DE CURSO — o que muda entre SKUs mora AQUI e só aqui.
 
 export const curso = {
   /**
-   * Identidade do SKU, e ela NÃO é cosmética: é o namespace de
-   * localStorage. Todos os cursos servem de aleapc.github.io/<curso>/, e
-   * localStorage é por ORIGEM, não por caminho — sem isto, os cursos leem e
-   * sobrescrevem o progresso uns dos outros.
+   * Identidade do SKU, e ela NÃO é cosmética: é o namespace de localStorage.
+   * Todos os cursos servem de aleapc.github.io/<curso>/, e localStorage é por
+   * ORIGEM, não por caminho — sem isto, os cursos leem e sobrescrevem o
+   * progresso uns dos outros.
    */
-  sku: 'curso-grecia-en',
+  sku: 'curso-grecia-nl',
   /** Idioma do comprador (a voz-guia). */
-  buyerLang: 'en',
+  buyerLang: 'nl',
   /** Idioma do destino (a fala nativa ensinada). */
   targetLang: 'el',
   /** Par para o link do Google Tradutor: sl = comprador, tl = destino. */
-  translatorPair: { sl: 'en', tl: 'el' },
+  translatorPair: { sl: 'nl', tl: 'el' },
   /** Moeda do destino. */
   destCurrency: 'EUR',
   /**
-   * Moedas de "casa" do comprador que vale converter no bolso do viajante.
-   * Vazio quando o comprador já usa a moeda do destino (ex.: DE/FR/IT→Espanha,
-   * todos em EUR) — nesse caso o /bolso mostra a nota "mesma moeda", sem conversor.
+   * Vazio DE PROPÓSITO: o comprador neerlandês usa euro e o destino também.
+   * Não há conversão a fazer, e o /bolso mostra a nota «mesma moeda» em vez de
+   * um conversor inútil. Pela mesma razão, o alerta de conversão dinâmica de
+   * moeda (DCC) — que é o item de dinheiro nº 1 da linha anglófona — NÃO se
+   * aplica a esta coluna: ele só existe quando o cartão é de outra moeda.
    */
-  homeCurrencies: ['GBP', 'USD'] as string[],
+  homeCurrencies: [] as string[],
   timeZone: 'Europe/Athens'
 } as const;
 

@@ -51,7 +51,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i05-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -73,7 +73,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p01",
       "promptPt": "First question of the evening, and he is waiting with his coffee halfway up. Speak now.",
       "audioKey": "el-i05-t01",
@@ -84,7 +84,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i05-n02",
       "bloco": "molde",
       "pt": "The frame is mou aresi, plus the thing. It is what turns an answer into a conversation."
@@ -103,7 +103,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i05-p02",
       "promptPt": "Second question, and it wants a number. You landed on the first and you fly out on the eleventh. Speak now.",
       "audioKey": "el-i05-t02",
@@ -126,7 +126,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p03",
       "promptPt": "Third question. You landed on Tuesday and you have never been here before. Speak now.",
       "audioKey": "el-i05-t03",
@@ -151,7 +151,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i05-p04",
       "promptPt": "Fourth question, and it is asked with real interest rather than as small talk. Answer it warmly. Speak now.",
       "audioKey": "el-i05-t04",
@@ -178,7 +178,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p05",
       "promptPt": "He asked what you do, and your job title means nothing in any language. Keep it to where you go. Speak now.",
       "audioKey": "el-i05-t05",
@@ -189,7 +189,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i05-n03",
       "pt": "Macedonia is the name of a Greek region, capital Thessaloniki. Name the city you are going to, not the region."
     },
@@ -208,7 +208,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i05-p06",
       "promptPt": "Your next stop is the big northern city with the waterfront. Give him the city by name. Speak now.",
       "audioKey": "el-i05-t06",
@@ -219,7 +219,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i05-n04",
       "pt": "Greece sits high on commercial English indexes, and speaking is its weakest column. Do not plan on English."
     },
@@ -237,7 +237,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p07",
       "promptPt": "You have four sentences and she has just heard three of them. Undersell it, in Greek. Speak now.",
       "audioKey": "el-i05-t07",
@@ -248,7 +248,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i05-n05",
       "pt": "Your answer does not have to be long. Two words in Greek buy more room than a paragraph in English."
     },
@@ -258,7 +258,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i05-p08",
       "promptPt": "You have answered five of his and he has answered none of yours. Hand one back. Speak now.",
       "audioKey": "el-i05-t08",
@@ -269,7 +269,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i05-n06",
       "bloco": "capsula",
       "pt": "Hand one back. The question you return is what turns this from an interview into a conversation."
@@ -290,7 +290,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p09",
       "promptPt": "He answered at full speed and you caught the word for village and nothing else. Speak now.",
       "audioKey": "el-i05-t09",
@@ -303,7 +303,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i05-n07",
       "pt": "Not catching it is not the end of the evening. Say so, ask for slower, and the story simply starts again."
     },
@@ -313,7 +313,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-i05-p10",
       "promptPt": "He is standing up and putting his jacket on, and he shook your hand a second ago. Speak now.",
       "audioKey": "el-i05-t10",
@@ -324,7 +324,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-i05-n08",
       "pt": "Leaving is a sentence, not a slow fade. Say you have to go, say it was good, and then stand up."
     },
@@ -335,7 +335,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-i05-p11",
       "promptPt": "The conversation is good and you are meeting someone in ten minutes. Close it warmly and go. Speak now.",
       "audioKey": "el-i05-t11",
@@ -356,7 +356,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-i05-n09",
       "bloco": "recap",
       "pt": "I05 done. Five questions, five answers, one question handed back, and a clean way out when you want one."

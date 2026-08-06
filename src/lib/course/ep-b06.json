@@ -50,7 +50,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -58,7 +58,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b06-n02",
       "bloco": "molde",
       "pt": "Here is the frame: έχετε, and then the thing. Do you have — and then whatever you happen to need."
@@ -80,7 +80,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "χάρτη",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b06-p01",
       "promptPt": "At the information desk, paper survives a flat battery and yours is nearly flat. Ask. Speak now.",
       "audioKey": "el-b06-t01",
@@ -99,7 +99,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n03",
       "bloco": "corpo",
       "pt": "Notice what the frame asks: not whether the thing exists somewhere, but whether this person has it."
@@ -113,7 +113,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "κάρτα για το κινητό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b06-p02",
       "promptPt": "At the phone shop by baggage reclaim, you want a local number for the week. Ask. Speak now.",
       "audioKey": "el-b06-t02",
@@ -124,7 +124,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b06-n04",
       "pt": "Καλημέρα comes first, every single time. Arriving with the request and no greeting is entering without knocking."
     },
@@ -137,7 +137,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "φορτιστή",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b06-p03",
       "promptPt": "Back at the phone shop: your battery is at four percent and everything you own is in the hold bag. Ask. Speak now.",
       "audioKey": "el-b06-t03",
@@ -148,7 +148,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n05",
       "pt": "The thing after the frame arrives as one block. Learn έχετε χάρτη whole and never take it apart."
     },
@@ -161,7 +161,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "φύλαξη αποσκευών",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b06-p04",
       "promptPt": "At the information desk again: the room is not ready until three and you are carrying everything. Ask. Speak now.",
       "audioKey": "el-b06-t04",
@@ -178,7 +178,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "εισιτήρια για το μετρό",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b06-p05",
       "promptPt": "The kiosk by the exit sells travel, and the machines have a long queue in front of them. Ask. Speak now.",
       "audioKey": "el-b06-t05",
@@ -189,7 +189,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b06-n06",
       "bloco": "capsula",
       "pt": "The frame does not care what the thing is. A map, a charger, tickets, water, coins, a toilet."
@@ -202,7 +202,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "ψιλά",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b06-p06",
       "promptPt": "Still at the kiosk: the luggage trolley takes coins only and the machine gave you a twenty. Ask. Speak now.",
       "audioKey": "el-b06-t06",
@@ -223,7 +223,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n07",
       "pt": "Card is owed to you at a long list of trades here, and the notice has to be visible at the door and the till."
     },
@@ -233,7 +233,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b06-p07",
       "promptPt": "You are about to hand over your last note at the kiosk and you would rather keep it. Check first. Speak now.",
       "audioKey": "el-b06-t07",
@@ -244,7 +244,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b06-n08",
       "pt": "A no usually carries the address of the yes. Stay one beat past the first word."
     },
@@ -256,7 +256,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "νερό",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b06-p08",
       "promptPt": "At the airport café, before an hour on the metro in August. Ask. Speak now.",
       "audioKey": "el-b06-t08",
@@ -273,7 +273,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "τουαλέτα",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b06-p09",
       "promptPt": "Still at the airport café, before the train and the long ride into town. Ask. Speak now.",
       "audioKey": "el-b06-t09",
@@ -292,7 +292,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n09",
       "pt": "Cash machines have a fee ceiling now, and where a small community has just one, the fee is zero."
     },
@@ -302,7 +302,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b06-p10",
       "promptPt": "They sorted you out in ten seconds. Close it the way people close things here. Speak now.",
       "audioKey": "el-b06-t10",
@@ -323,7 +323,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b06-n10",
       "bloco": "recap",
       "pt": "B06 done. One frame, four counters, and the whole first hour answered with έχετε and a noun."

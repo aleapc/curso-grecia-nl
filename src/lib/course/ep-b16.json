@@ -26,7 +26,7 @@
   "steps": [
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b16-n01",
       "gesto": 1,
       "bloco": "aquecimento",
@@ -34,7 +34,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b16-n02",
       "bloco": "molde",
       "pt": "Two openings run this desk. Έχετε for what they have, μπορώ να for what you would like to do."
@@ -53,7 +53,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p01",
       "promptPt": "You have just walked in with your bag and the desk is looking up at you. Open the check-in. Speak now.",
       "audioKey": "el-b16-t01",
@@ -64,7 +64,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b16-n03",
       "bloco": "corpo",
       "pt": "Ask for the improvement first, before anything else. Quieter, higher, later — in that order."
@@ -77,7 +77,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "ένα πιο ήσυχο δωμάτιο",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b16-p02",
       "promptPt": "The street outside has two bars on it and you are here for three nights. Ask at the desk. Speak now.",
       "audioKey": "el-b16-t02",
@@ -98,7 +98,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b16-n04",
       "pt": "The answer often lands as a floor number rather than as a yes. Take the number, it is the yes."
     },
@@ -110,7 +110,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "κάτι σε ψηλότερο όροφο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p03",
       "promptPt": "The room you were given is on the ground floor, right beside the front door. Ask. Speak now.",
       "audioKey": "el-b16-t03",
@@ -121,7 +121,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b16-n05",
       "pt": "Bags come before rooms. A room that is ready at two does not have to cost you the morning."
     },
@@ -133,7 +133,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "αφήσω τη βαλίτσα εδώ",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b16-p04",
       "promptPt": "It is eleven, the room is ready at two, and you would rather not spend three hours holding a suitcase. Speak now.",
       "audioKey": "el-b16-t04",
@@ -158,7 +158,7 @@
       "voz": "target_el_f",
       "molde": "BORO",
       "encaixe": "φύγω αργότερα αύριο",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p05",
       "promptPt": "Your flight tomorrow is in the evening and check-out is at eleven. Ask now, while they are still typing. Speak now.",
       "audioKey": "el-b16-t05",
@@ -175,7 +175,7 @@
       "voz": "target_el_f",
       "molde": "EXETE",
       "encaixe": "αντάπτορα",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b16-p06",
       "promptPt": "Your plug has three flat pins and every socket in the room has two round holes. Ask at the desk. Speak now.",
       "audioKey": "el-b16-t06",
@@ -192,7 +192,7 @@
       "voz": "target_el_f",
       "molde": "PSAXNO",
       "encaixe": "το ασανσέρ",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p07",
       "promptPt": "Fourth floor, one heavy bag, and the staircase is the only thing you can see. Speak now.",
       "audioKey": "el-b16-t07",
@@ -207,7 +207,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b16-p08",
       "promptPt": "You want to know whether tomorrow starts with coffee downstairs or with a walk. Ask. Speak now.",
       "audioKey": "el-b16-t08",
@@ -228,7 +228,7 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b16-n06",
       "bloco": "capsula",
       "pt": "Now the half that goes wrong. Name the thing, then say it is not working. Two words, no story."
@@ -239,7 +239,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p09",
       "promptPt": "Thirty-four degrees outside, the unit on the wall hums and blows nothing. Back at the desk. Speak now.",
       "audioKey": "el-b16-t09",
@@ -254,7 +254,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_f",
+      "promptVoz": "guide_nl_f",
       "promptAudioKey": "el-b16-p10",
       "promptPt": "You have had the shower tap on for four minutes and it is still cold. Phone the desk. Speak now.",
       "audioKey": "el-b16-t10",
@@ -278,7 +278,7 @@
       ],
       "tipo": "responde",
       "voz": "target_el_f",
-      "promptVoz": "guide_en_us_m",
+      "promptVoz": "guide_nl_m",
       "promptAudioKey": "el-b16-p11",
       "promptPt": "You have named the thing and nothing has moved yet. Get someone up there with their own eyes on it. Speak now.",
       "audioKey": "el-b16-t11",
@@ -289,13 +289,13 @@
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b16-n07",
       "pt": "One number to keep: a bill of five hundred euros or more has to go on a card, never in cash."
     },
     {
       "tipo": "intro",
-      "voz": "guide_en_us_m",
+      "voz": "guide_nl_m",
       "audioKey": "el-b16-n08",
       "pt": "None of this needs a complaint voice. A room is a machine, and machines get reported flatly."
     },
@@ -310,7 +310,7 @@
     },
     {
       "tipo": "recap",
-      "voz": "guide_en_us_f",
+      "voz": "guide_nl_f",
       "audioKey": "el-b16-n09",
       "bloco": "recap",
       "pt": "B16 done. Έχετε, μπορώ να, and two flat sentences for anything upstairs that has stopped."
