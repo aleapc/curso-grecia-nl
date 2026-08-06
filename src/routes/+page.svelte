@@ -66,7 +66,7 @@
     Γεια σας! 👋
   </h1>
   <p class="mt-1 text-carvao/70">
-    Survival Greek and culture for Greece — listen, say it out loud, and don’t get had.
+    Grieks en cultuur om Griekenland te overleven — luisteren, hardop meespreken, en niet belazerd worden.
   </p>
 </section>
 
