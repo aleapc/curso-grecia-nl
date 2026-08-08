@@ -1,49 +1,47 @@
 {
   "marca": "Ορίστε!",
-  "cabecalho": "Greece, at a glance",
-  "titulo": "Traveler's pocket",
-  "subtitulo": "The essentials stay available in airplane mode.",
+  "cabecalho": "Griekenland in het kort",
+  "titulo": "Zakboekje voor onderweg",
+  "subtitulo": "Het belangrijkste blijft werken in vliegtuigmodus.",
   "rotulos": {
-    "cambio": "Currency converter",
-    "valorEm": "Amount in",
-    "dataCotacao": "Rate date",
-    "avisoCotacao": "Reference only. Check your card or bank rate before spending.",
-    "tomadas": "Plugs & power",
-    "emergencia": "Emergency",
-    "ligar": "Call",
-    "saberUtil": "Useful to know"
+    "cambio": "Wisselkoers",
+    "valorEm": "Bedrag in",
+    "dataCotacao": "Koersdatum",
+    "avisoCotacao": "Alleen ter referentie. Controleer je kaart of bank vóór je uitgeeft.",
+    "tomadas": "Stekkers & stroom",
+    "emergencia": "Noodgeval",
+    "ligar": "Bellen",
+    "saberUtil": "Handig om te weten"
   },
-  "mesmaMoeda": "Greece uses the euro, the same currency you spend at home — no conversion needed.",
+  "mesmaMoeda": "Griekenland gebruikt de euro, net als thuis — geen omrekening nodig.",
   "moedas": {
-    "EUR": { "flag": "🇪🇺", "locale": "en-GB" },
-    "GBP": { "flag": "🇬🇧", "locale": "en-GB" },
-    "USD": { "flag": "🇺🇸", "locale": "en-US" }
+    "EUR": { "flag": "🇪🇺", "locale": "nl-NL" }
   },
   "cambio": {
-    "date": "2026-08-05",
-    "rates": { "GBP": 0.8572, "USD": 1.1554 }
+    "date": "2026-08-07",
+    "rates": {}
   },
   "emergencia": [
-    { "numero": "112", "oQue": "Single European emergency number — reaches police, ambulance and fire" },
-    { "numero": "166", "oQue": "Ambulance (EKAB), direct line" },
-    { "numero": "100", "oQue": "Police" },
-    { "numero": "199", "oQue": "Fire service" },
-    { "numero": "108", "oQue": "Coast guard — emergencies at sea" },
-    { "numero": "171", "oQue": "Tourist police" },
-    { "numero": "210 7793777", "oQue": "Poison centre, Athens (a normal landline number, not a short code)" }
+    { "numero": "112", "oQue": "Eén Europees noodnummer — bereikt politie, ambulance en brandweer" },
+    { "numero": "166", "oQue": "Ambulance (EKAB), directe lijn" },
+    { "numero": "100", "oQue": "Politie" },
+    { "numero": "199", "oQue": "Brandweer" },
+    { "numero": "108", "oQue": "Kustwacht — noodgevallen op zee" },
+    { "numero": "171", "oQue": "Toeristenpolitie" },
+    { "numero": "210 7793777", "oQue": "Vergiftigingencentrum, Athene (een gewoon vast nummer, geen verkort nummer)" }
   ],
   "saberUtil": [
-    { "emoji": "🔤", "texto": "The ELOT 743 romanisation is very widely used on Greek road signs, but the UK's PCGN calls it a less reliable guide to pronunciation than the older system it replaced — ΡΟΔΟΣ is Rodos, not \"Podos\", so reading a sign aloud will not get you understood." },
-    { "emoji": "💳", "texto": "Greek law obliges businesses in the listed activity categories to accept card payment (art. 65, law 4446/2016), so a flat refusal is often illegal — though the duty follows that list, not literally every trader." },
-    { "emoji": "💶", "texto": "A consumer bill of €500 or more must be paid by card, transfer or another electronic means rather than in cash (art. 69 §2, law 4446/2016)." },
-    { "emoji": "🍞", "texto": "A cover charge (κουβέρ) is banned, and nothing — bread and bottled water included — may be served and billed without your prior consent (art. 72 of the ΔΙ.Ε.Π.Π.Υ. rules, 2017)." },
-    { "emoji": "📋", "texto": "Eateries must display the price list at the entrance and again before you order, and charging above the listed price is a fineable offence — you can check prices from the pavement." },
-    { "emoji": "🧾", "texto": "Issuing the receipt is the business's legal obligation, not yours." },
-    { "emoji": "💰", "texto": "Tipping exists and is recognised in Greek tax law, but there is no dependable customary percentage — ask for the bill (τον λογαριασμό, παρακαλώ) and decide the amount yourself." },
-    { "emoji": "🏧", "texto": "Since 11 August 2025 ATM withdrawal fees are capped at €1.50 for independent operators and drop to zero where a municipal community has only one machine — still carry some cash, because not every small island has a bank branch." },
-    { "emoji": "🏥", "texto": "With an EHIC or GHIC, treatment in public hospitals and health centres is free, but you still pay 25% of medicine costs, €1 per e-prescription (non-refundable) and 15% of tests at a contracted private provider — and at a private provider with no contract the card covers nothing at all." },
-    { "emoji": "⛴️", "texto": "Ferry tickets are personal by law and carry your name and date of birth, so you cannot buy one for someone else or pass yours on." },
-    { "emoji": "🌬️", "texto": "If weather cancels or delays a sailing you keep the right to a refund or rerouting, but EU Regulation 1177/2010 gives no compensation when weather endangers safe operation (art. 20)." },
-    { "emoji": "💊", "texto": "A closed pharmacy posts the local duty-pharmacy rota in its window, so the nearest shut door still tells you where the open one is." }
+    { "emoji": "🔤", "texto": "De ELOT 743-transliteratie wordt heel veel gebruikt op Griekse verkeersborden, maar de Britse PCGN noemt het een minder betrouwbare gids voor de uitspraak dan het oudere systeem dat het verving — ΡΟΔΟΣ is Rodos, niet \"Podos\", dus een bord hardop lezen zorgt er niet voor dat u begrepen wordt." },
+    { "emoji": "💳", "texto": "De Griekse wet verplicht bedrijven in de opgesomde activiteitencategorieën om kaartbetaling te accepteren (art. 65, wet 4446/2016), dus een botte weigering is vaak illegaal — al volgt de plicht die lijst, niet letterlijk elke handelaar." },
+    { "emoji": "💶", "texto": "Een consumentenrekening van €500 of meer moet worden betaald per kaart, overboeking of een ander elektronisch middel, en niet contant (art. 69 §2, wet 4446/2016)." },
+    { "emoji": "🍞", "texto": "Een couvert (κουβέρ) is verboden, en niets — brood en flessenwater inbegrepen — mag geserveerd en gefactureerd worden zonder uw voorafgaande toestemming (art. 72 van de ΔΙ.Ε.Π.Π.Υ.-regels, 2017)." },
+    { "emoji": "📋", "texto": "Eetgelegenheden moeten de prijslijst bij de ingang tonen en opnieuw voordat u bestelt, en meer rekenen dan de vermelde prijs is een beboetbare overtreding — u kunt de prijzen vanaf de stoep controleren." },
+    { "emoji": "🧾", "texto": "Het uitgeven van de bon is de wettelijke plicht van het bedrijf, niet van u." },
+    { "emoji": "💰", "texto": "Fooien bestaat en wordt erkend in de Griekse belastingwet, maar er is geen betrouwbaar gebruikelijk percentage — vraag om de rekening (τον λογαριασμό, παρακαλώ) en bepaal het bedrag zelf." },
+    { "emoji": "🏧", "texto": "Sinds 11 augustus 2025 zijn de opnamekosten bij geldautomaten afgetopt op €1,50 voor onafhankelijke exploitanten en vallen ze weg waar een gemeentelijke gemeenschap maar één automaat heeft — neem toch wat contant geld mee, want niet elk klein eiland heeft een bankfiliaal." },
+    { "emoji": "🏥", "texto": "Met een EHIC of GHIC is behandeling in openbare ziekenhuizen en gezondheidscentra gratis, maar u betaalt nog steeds 25% van de medicijnkosten, €1 per e-recept (niet terugvorderbaar) en 15% van tests bij een gecontracteerde particuliere aanbieder — en bij een particuliere aanbieder zonder contract dekt de kaart helemaal niets." },
+    { "emoji": "⛴️", "texto": "Veerbootkaartjes zijn wettelijk persoonlijk en dragen uw naam en geboortedatum, dus u kunt er geen kopen voor iemand anders of het uwe doorgeven." },
+    { "emoji": "🌬️", "texto": "Als het weer een overtocht annuleert of vertraagt, houdt u recht op terugbetaling of omleiding, maar EU-Verordening 1177/2010 geeft geen compensatie wanneer het weer de veilige vaart in gevaar brengt (art. 20)." },
+    { "emoji": "💊", "texto": "Een gesloten apotheek hangt het rooster van de plaatselijke dienstapotheek in de etalage, dus de dichtstbijzijnde dichte deur vertelt u nog steeds waar de open apotheek is." }
   ]
 }
